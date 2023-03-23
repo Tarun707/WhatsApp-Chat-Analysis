@@ -1,0 +1,2267 @@
+19/11/2022, 17:02 - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+25/09/2022, 15:05 - +91 72062 13862 created group "FSDS 2022"
+19/11/2022, 17:02 - You joined using this group's invite link
+19/11/2022, 17:12 - +91 98250 15084 joined using this group's invite link
+19/11/2022, 17:26 - +91 79997 44064 joined using this group's invite link
+19/11/2022, 18:21 - +91 95793 15690 joined using this group's invite link
+20/11/2022, 13:49 - +91 96049 01230 joined using this group's invite link
+21/11/2022, 08:17 - +91 94500 61215 changed to +91 99172 91903
+21/11/2022, 13:07 - +91 6280 963 446: https://youtu.be/lCxOQF_Deyc
+21/11/2022, 16:07 - +91 99172 91903 changed to +91 94500 61215
+21/11/2022, 23:03 - +91 99440 94955 joined using this group's invite link
+22/11/2022, 17:57 - +91 94500 61215 changed to +91 99172 91903
+23/11/2022, 20:21 - +91 6280 963 446: This message was deleted
+23/11/2022, 20:34 - +91 6280 963 446: Let’s have a detailed explanation about (not limited to): -**End to End Machine learning project building ( Modular coding approach)**
+
+Topic Covered: 
+Machine Learning project life cycle.
+Understanding about the Industry Standard folder structure
+Example Explanation
+Build end to end project with web application
+Deployment ( If time allow we will cover GitHub pipeline )
+How to add projects in Resume.
+
+Keeping yourself relevant in the industry
+
+I will be happy to share my experience. You can consider it as one more opinion while deciding. Let’s make it happen together!
+
+Book your Slots here: https://lnkd.in/gbFbEAtp
+
+All you have to do is click on the link, book a slot at your convenience, make the payment and we’re good to go!
+Keeping a small fee to ensure that no genuine requests are missed out. Looking forward to insightful and interesting conversations with you guys!
+23/11/2022, 21:14 - +91 78549 35445: Ineuron Mobile App
+
+https://play.google.com/store/apps/details?id=com.ineuronmobileapplication
+23/11/2022, 23:26 - +91 99172 91903: Not working properly
+23/11/2022, 23:27 - +91 99172 91903: <Media omitted>
+23/11/2022, 23:27 - +91 99172 91903: Lagging in playing vedio
+23/11/2022, 23:38 - +91 99397 90052: Yes
+24/11/2022, 08:26 - +91 90332 44869: This message was deleted
+24/11/2022, 08:53 - +91 80834 90948 joined using this group's invite link
+24/11/2022, 12:09 - +91 6280 963 446: https://youtu.be/gx3bK8m_V9M
+24/11/2022, 15:37 - Tarun Rao: Hi
+24/11/2022, 15:37 - Tarun Rao: Is anyone here from Nov 21 batch
+24/11/2022, 15:39 - Tarun Rao: Or if anyone knows someone from Nov 21 batch pls pm me
+24/11/2022, 15:58 - +91 6280 963 446: https://www.linkedin.com/feed/update/urn:li:share:7001490803512553472/
+24/11/2022, 20:09 - +91 97168 98919: Have you ever visualised how any model overfits or underfits the dataset?
+Or are you confused to understand what is underfitting or overfitting?
+Or how the overfitting model is a complex model and the underfitting model a simple model?
+Or what is the Bias variance tradeoff?
+
+This article will give you answer to the above questions, not just theoretically but also practically, and it will clear your doubt about overfitting, underfitting and bias-variance tradeoff.
+
+https://medium.com/@ineuron22/understand-bias-variance-tradeoff-with-overfit-and-underfit-model-a7a768b8b025
+24/11/2022, 20:26 - +91 92059 79486: Informative, Thanks
+25/11/2022, 12:02 - +91 6280 963 446: https://www.linkedin.com/feed/update/urn:li:share:7001794234341101569/
+25/11/2022, 16:43 - +44 7831 624309: Hello all, is someone here with 15+ yrs experience looking to transition from non IT background please...like to connect
+25/11/2022, 16:49 - +60 11-2419 2738: How to connect?
+25/11/2022, 16:50 - +91 90332 44869: Like
+25/11/2022, 16:51 - +44 7831 624309: Ping me on my WhatsApp we can have a chat and draw inspiration from each other and keep motivated
+27/11/2022, 23:50 - +91 99172 91903 changed to +91 94500 61215
+28/11/2022, 20:39 - +91 92059 79486: When is the class?
+28/11/2022, 20:39 - +91 79755 70668: 8:40
+28/11/2022, 20:39 - +91 98217 15290: Now
+28/11/2022, 20:40 - +91 92059 79486: Okay
+28/11/2022, 20:45 - +91 96404 90672: <Media omitted>
+28/11/2022, 20:45 - +91 79755 70668: Yes started
+28/11/2022, 20:48 - +91 96404 90672: I have tried to join using love class link from dashboard . 
+
+It still shows this ?  Any clue..
+28/11/2022, 20:53 - +91 95959 59773: Use extra class link in dropdown
+29/11/2022, 11:53 - +91 90636 71244: <Media omitted>
+29/11/2022, 11:55 - +91 79997 44064: You need to import SensorException on that module
+29/11/2022, 11:55 - +91 90042 57538: yes
+29/11/2022, 11:55 - +91 90636 71244: Ok let me check
+29/11/2022, 11:56 - +91 90636 71244: I did
+29/11/2022, 11:57 - +91 90636 71244: I have already imported SensorException module
+29/11/2022, 11:57 - +91 90129 22002: Check for spelling
+29/11/2022, 11:57 - +91 90636 71244: <Media omitted>
+29/11/2022, 11:59 - +91 90636 71244: Same error is repeating
+29/11/2022, 12:05 - +91 78955 03637: Check in exception.py
+29/11/2022, 12:09 - +91 90636 71244: Everything is fine
+29/11/2022, 12:12 - +91 90042 57538: aaj bhi extra lecture hai kya?
+29/11/2022, 12:12 - +91 90636 71244: Tomorrow there will be
+29/11/2022, 12:14 - +91 90636 71244: <Media omitted>
+29/11/2022, 15:09 - +91 6280 963 446: https://youtu.be/djdnnNF7zKo
+29/11/2022, 15:47 - +91 78955 03637: Yeah this is correct ...  Not sure why you are getting this
+29/11/2022, 15:51 - +91 90636 71244: I'm clear with that
+29/11/2022, 15:58 - +91 90636 71244: <Media omitted>
+29/11/2022, 15:59 - +91 90636 71244: It says that dataingestionartifact takes no args
+29/11/2022, 16:15 - +91 90042 57538: <Media omitted>
+29/11/2022, 16:15 - +91 90042 57538: Anyone can please tell me what's the error?
+29/11/2022, 16:28 - +91 90636 71244: It is saying that the input you are giving is not a real number
+29/11/2022, 16:29 - +91 90042 57538: but getting that p-value from stat function
+29/11/2022, 16:31 - +91 90636 71244: You are giving F_onewayResult as input
+29/11/2022, 20:45 - +91 95959 59773: Can we have session today?
+29/11/2022, 20:45 - +91 90042 57538: No
+29/11/2022, 20:45 - +91 95959 59773: Thanks
+29/11/2022, 21:21 - +91 98610 45001 joined using this group's invite link
+29/11/2022, 23:41 - +91 75047 29277 joined using this group's invite link
+30/11/2022, 13:50 - +91 96698 39680: Can any one help me how I can add notebook to neuro lab
+30/11/2022, 13:58 - +91 93903 94878: Just right click on folder name ->in options you see upload option
+30/11/2022, 14:29 - +91 70206 63067: Guys can anyone share the answers for python basics assignments!
+30/11/2022, 14:29 - +91 70206 63067: GitHub!
+30/11/2022, 14:31 - +91 96698 39680: Thank you @919390394878
+30/11/2022, 14:49 - +91 98610 45001: Sudhanshu sir will not be happy 😂😂
+30/11/2022, 15:20 - +91 70206 63067: 😂
+30/11/2022, 20:00 - +91 6290 268 376: Extra class is on 8:00 or 8:30 ?
+30/11/2022, 20:00 - +91 98217 15290: 8:30
+30/11/2022, 20:00 - +91 6290 268 376: Thanks
+30/11/2022, 20:31 - +91 92059 79486: Did class start?
+30/11/2022, 20:33 - +91 88478 94318: Na
+30/11/2022, 20:33 - +91 6290 268 376: Not yet
+30/11/2022, 20:38 - +91 90129 22002: Is it started?
+30/11/2022, 20:38 - +91 6280 963 446: yes
+30/11/2022, 21:50 - +91 98610 45001: Is this group for may 2022 batch?
+30/11/2022, 21:51 - +91 93258 66289: Yes
+30/11/2022, 21:52 - +91 98610 45001: 👌👌👌
+30/11/2022, 22:30 - +91 94500 61215: Hey.. Bros
+30/11/2022, 22:35 - +91 98675 46451: Box plot se zyada easily pata chalega
+30/11/2022, 22:31 - +91 94500 61215: <Media omitted>
+30/11/2022, 22:39 - +91 94500 61215: Bro
+... Test ka question h..
+30/11/2022, 22:40 - +91 96859 11215: B
+30/11/2022, 22:39 - +91 94500 61215: To aise hi puch rhe
+30/11/2022, 22:54 - +91 92059 79486: b
+30/11/2022, 22:39 - +91 94500 61215: Koi idea
+30/11/2022, 22:57 - +91 79755 70668: B
+30/11/2022, 22:39 - +91 94500 61215: Kisi ko
+30/11/2022, 22:57 - +91 94500 61215: Ya
+30/11/2022, 22:57 - +91 94500 61215: Thanks.
+01/12/2022, 01:11 - +91 99397 90052: At 17 Team leader has come in lieu of Acting team Leader madam.
+02/12/2022, 16:27 - +91 81449 29155 joined using this group's invite link
+02/12/2022, 15:29 - +91 96404 90672: Guys ,while building classification model in end to end projects are we supposed impliment every possible model Like  Logistic regression,SVM,Randomforest, Xgboost, etc... and compare them ?
+02/12/2022, 15:33 - +91 81785 68253: I've got this same question too
+02/12/2022, 15:33 - +91 93903 94878: Yes
+02/12/2022, 16:02 - +91 98610 45001: Yes, you will have to choose the model which will give higher accuracy
+02/12/2022, 16:22 - +91 79997 44064: Do any one know...how to fetch html page's  h1 attribute text in python
+02/12/2022, 17:01 - +91 98675 46451: Not necessarily although that'll be definitely better, but i feel you can eliminate few algos which you feel will perform less than the other for example logistic will obviously perform lesser than randomforest
+02/12/2022, 17:04 - +91 85490 02123: <Media omitted>
+02/12/2022, 17:04 - +91 85490 02123: <Media omitted>
+02/12/2022, 17:04 - +91 85490 02123: <Media omitted>
+02/12/2022, 17:05 - +91 85490 02123: Can anyone help me out how we take multiple columns as Y test and training features
+02/12/2022, 17:06 - +91 85490 02123: Can some one help me out this problem
+02/12/2022, 17:06 - +91 85490 02123: Please
+02/12/2022, 17:11 - +91 85490 02123: For multiple columns as  labels
+02/12/2022, 18:08 - +91 88478 94318: use iloc
+02/12/2022, 19:06 - +91 6280 963 446: End To End NLP Project Discussion [ NER Project ]
+Description
+Let’s have a detailed explanation about (not limited to): -End to End End to End NLP Project Discussion [ NER project ] ( Modular coding approach)
+NLP Project project life cycle.
+Understanding about the Encoder Decoder
+Intuition Behind Transformers Explanation
+Understanding about Named Entity Recognitions
+Build end to end code explanation
+Web Application creation
+Deployment ( If time allow we will cover GitHub pipeline )
+How to add projects in Resume.
+How to Explanation during Interview
+QA Sessions
+
+Book your slot here: https://lnkd.in/giN--JBR
+
+Keeping yourself relevant in the industry
+
+I will be happy to share my experience. You can consider it as one more opinion while deciding. Let’s make it happen together!
+02/12/2022, 19:18 - +91 85490 02123: The results after model testing i want University as well as course recommendation
+02/12/2022, 19:57 - +91 90042 57538: I want to combine nested list how can I do that?
+02/12/2022, 19:59 - +91 92059 79486: Are you going to create NLP project from end to end by writing code ?
+02/12/2022, 20:01 - +91 6280 963 446: yes
+02/12/2022, 20:02 - +91 92059 79486: Thanks for the reply
+02/12/2022, 20:16 - +91 70206 63067: Any prerequisite for joining this project
+02/12/2022, 20:23 - +91 6280 963 446: No
+02/12/2022, 20:25 - +91 88478 94318: I haven't checked the dataset, will check and confirm
+02/12/2022, 20:29 - +91 85490 02123: Sure thanks
+03/12/2022, 16:09 - +91 98217 15290: Konsa topic padha rhe sir aaj??
+03/12/2022, 16:25 - +91 95959 59773: Project
+04/12/2022, 10:51 - +91 6280 963 446: Any one who is interested in the field of Data is welcome here. We will share free and quality resources in this field.
+**Data Science Learning:**
+Chanel link: https://t.me/datascience_learnings
+
+**Data Science job updates**
+Chanel link: https://t.me/jobanalytics
+
+You can share with your friends
+04/12/2022, 16:37 - +91 98111 07575: Do we use SmoteToMek for d imbalanced dataset in the industry ??
+
+Pls advise if ur company is using dis approach
+04/12/2022, 17:51 - +91 80584 18138 joined using this group's invite link
+04/12/2022, 19:08 - +91 81785 68253: Does anybody think the way Avnish is explaining things to us, that's sufficiently understandable? I'm having a hard time understanding the project.
+04/12/2022, 19:08 - +91 92059 79486: Obviously no
+04/12/2022, 19:10 - +91 81785 68253: If a get the similar response from a couple of more people then I'll have to drop it to the iNeuron team. I believe they will handle it maturely.
+04/12/2022, 19:13 - +91 92059 79486: They will not do anything
+04/12/2022, 19:13 - +91 92059 79486: Krish sir should teach
+04/12/2022, 19:14 - +91 81785 68253: They definitely won't if we don't flag it
+04/12/2022, 19:15 - +91 95813 88411: Agree Not sufficient
+04/12/2022, 19:15 - +91 92059 79486: I have already sent multiple emails and they didn't reoly
+04/12/2022, 19:15 - +91 95813 88411: Even I also send mail but no response
+04/12/2022, 19:16 - +91 88478 94318: they dont have any other option, rather than to re record the session
+04/12/2022, 19:16 - +91 98250 15084: i have also send mail
+04/12/2022, 19:16 - +91 88478 94318: or take extra class
+04/12/2022, 19:17 - +91 98250 15084: bt they are not giving satisfactory reply
+04/12/2022, 19:17 - +91 92059 79486: Krish sir should take extra class
+04/12/2022, 19:17 - +91 88478 94318: that's y they wont do it
+04/12/2022, 19:17 - +91 88478 94318: bolna pdega milke
+04/12/2022, 19:17 - +91 88478 94318: ek grp mail kro
+04/12/2022, 19:18 - +91 81785 68253: Were those email regarding the same issue related to Avnish?
+04/12/2022, 19:18 - +91 81785 68253: Sunny was indeed way better
+04/12/2022, 19:19 - Tarun Rao: Have you guys tried seeing those recordings at lesser speeds ?
+04/12/2022, 19:19 - +91 81785 68253: I did, but that too didn't help. I eventually had to rely on Google most of the time
+04/12/2022, 19:20 - +91 81785 68253: Anyways I'm dropping an email to Divyanshu regarding this. I hope to hear from him soon with a solution
+04/12/2022, 19:21 - +91 89995 47341 joined using this group's invite link
+04/12/2022, 19:22 - +91 89995 47341: Hi komal from this side,
+
+Just now I heard from Sahil that you too are facing a problem to understand the project.
+So we should get united and drop a mail to Krish sir, sudhanshu sir...
+
+Otherwise things won't change and it will be just a waste of our time. 
+We can't compromise with our time at this stage.
+What do you all say???
+04/12/2022, 19:23 - +91 81785 68253: Agreed. And in case they don't listen(which i doubt will happen) I've got a workaround.
+
+We can start flagging it over the emails and wait for a few days
+04/12/2022, 19:24 - +91 86178 08574: The hands on being done correctly according to me, there should have been knowledge check or coding assignment after every session to improve the understanding
+04/12/2022, 19:24 - +91 89995 47341: Yeah what we can do is rather than mailing individually
+We can take all our e-mail IDs and send one mail..
+
+They can ignore individuals mail but can't ignore group mail.
+04/12/2022, 19:25 - +91 86178 08574: not being done correctly*
+04/12/2022, 19:25 - +91 86178 08574: +1
+04/12/2022, 19:25 - +91 92059 79486: Yes
+04/12/2022, 19:26 - +91 92059 79486: He is better..
+04/12/2022, 19:26 - +91 89995 47341: Tbh, there are still many who do have problems with sunny too.
+04/12/2022, 19:27 - +91 99875 64492: lets drop a mail with same subject line
+04/12/2022, 19:27 - Tarun Rao: When will they complete the project ?
+04/12/2022, 19:27 - +91 89995 47341: We paid because Krish sir and sudhanshu sir were going to teach us. But now the scenario is quite different .
+04/12/2022, 19:28 - +91 92059 79486: But he keeps explaining till we understand
+04/12/2022, 19:28 - +91 99875 64492: Exactly that's what i am saying from last 3-4 weeks
+04/12/2022, 19:28 - +91 79855 54980: He left ineuron
+04/12/2022, 19:28 - +91 89995 47341: That's great
+04/12/2022, 19:28 - +91 99875 64492: he was present yesterday
+04/12/2022, 19:29 - +91 90042 57538: Even today also
+04/12/2022, 19:29 - +91 81785 68253: Because of that reason we can't compromise with our learning. We understand that but can't really compromise
+04/12/2022, 19:29 - +91 79855 54980: May be serving notice period 😐
+04/12/2022, 19:30 - +91 79755 70668: Can we all raise this in the class time when Krish is there
+04/12/2022, 19:30 - +91 97168 98919: That is sunny bhaveen chandra, who left iNeuron.
+04/12/2022, 19:30 - +91 89995 47341: Sure definitely but he should look into that
+Otherwise he easily ignores everything
+04/12/2022, 19:30 - +91 79855 54980: When it comes to prectical topics they do like that .. 
+Same will be done when it come with computer vision ... 
+I have seen previous videos in deep learning course ...
+04/12/2022, 19:31 - +91 79855 54980: Yes .. he left
+04/12/2022, 19:31 - +91 92059 79486: <Media omitted>
+04/12/2022, 19:32 - +91 79855 54980: This is LinkedIn page of sunny bhaveen Chandra
+04/12/2022, 19:33 - +91 99875 64492: he is not present from start of the course, Sunny Savita teaches for this course sometimes
+04/12/2022, 19:33 - +91 79855 54980: Sudhanshu and Krish .. only teach theoretical concepts .. when it comes to project and other things .. it get shifted to other mentors
+04/12/2022, 19:34 - +91 89995 47341: Anyhow the sunny which is mentioned here is not in iNeuron now
+04/12/2022, 19:34 - +91 79755 70668: Yes we can request like we are not able to understand , I think this approach may help us when we raise this to Krish. Krish can't take atleast   Sunny should take our session bcoz we are adjusted to his wavelength
+04/12/2022, 19:34 - +91 88478 94318: somebody write mail, wnd and attach our consent for the problem
+04/12/2022, 19:35 - +91 92059 79486: Acha
+04/12/2022, 19:36 - +91 79855 54980: Yes
+04/12/2022, 19:39 - +91 97168 98919: He would be teaching us AI and Deep learning.
+04/12/2022, 19:40 - +91 89995 47341: Seriously?
+04/12/2022, 19:41 - +60 11-2419 2738: 😄we are gone.
+04/12/2022, 19:42 - +91 79855 54980: 🤣🤣 he left the institute bro
+04/12/2022, 19:42 - +91 90042 57538: I think code wise we are able to understand, maybe because he fumbled while talking most of us are facing issue but I think if we re-watch few more time it's good to understand, I'm also facing issue while remembering all steps...like how many file we need to create and components and all things...but for this things I don't they will change the mentor...this is what I think
+04/12/2022, 19:42 - +91 88478 94318: happily 😀
+04/12/2022, 19:44 - +91 89995 47341: How many times should we watch ???
+04/12/2022, 19:44 - +91 92059 79486: They should provide some notes in a sequential manner where all the description about filles will be there so that we can read and understand
+04/12/2022, 19:45 - +91 88478 94318: exactly my point
+04/12/2022, 19:45 - +91 90042 57538: Yes we can ask for that
+04/12/2022, 19:45 - +91 79855 54980: More importantly 
+. 
+In Deep learning .. ANN and CNN is entirely taken by sunny .. he left .. 
+So don't know who will fill in
+04/12/2022, 19:45 - +91 90042 57538: This is possible
+04/12/2022, 19:45 - +91 90042 57538: But changing mentor I don't think...
+04/12/2022, 19:45 - +91 88478 94318: Lets see what happens then we raise concern
+04/12/2022, 19:46 - +91 88478 94318: btw who is writing the mail, please mention
+04/12/2022, 19:46 - +91 88478 94318: this
+04/12/2022, 19:46 - +91 88478 94318: atleast that will b handy, easy to take on
+04/12/2022, 19:48 - +91 99875 64492: My suggestion is write a mail with same subject line to Krish and sudhanshu....
+04/12/2022, 19:57 - +91 81785 68253: +1
+04/12/2022, 19:58 - +91 98250 15084: +1  
+Same subject and same messege
+04/12/2022, 19:58 - +91 75880 03618: Yes
+04/12/2022, 19:58 - +91 98250 15084: and this time when they send mail for live class feedback . 
+at that time also . give then 1 stars
+04/12/2022, 19:59 - +91 98250 15084: this will definately reach to there ears
+04/12/2022, 20:01 - +60 11-2419 2738: Yes
+04/12/2022, 20:03 - +91 95959 59773: As far concern Avnish,I think he is giving his 100%. He is hardcoding everything in modular way with MLOps.Initially I also find it difficult to understand because didn't practice OOPs and file handling.
+04/12/2022, 20:04 - +60 11-2419 2738: File handling  Class date?
+04/12/2022, 20:05 - +91 95959 59773: I will suggest go through CampusX channel for python and ML.You will definitely not find any difficulty in OOPs.
+04/12/2022, 20:09 - +91 95959 59773: I didn't find it in dashboard right now. But it was there in one of session .
+04/12/2022, 20:09 - +91 89995 47341: With huge respect to you aniket,
+Just tell me one thing why we paid 17k to iNeuron???
+04/12/2022, 20:09 - +91 81785 68253: See that's where the problem lies. With Sudhanshu, Krish and Sunny we didn't have to read anything extra. So now we have spare some extra time to understand what he explained in 3 hour long session
+04/12/2022, 20:10 - +91 81785 68253: As soon as I'm dropping an email, I'll share the subject line here
+04/12/2022, 20:10 - +91 89995 47341: Sure
+04/12/2022, 20:11 - +60 11-2419 2738: Plz share subject line and mail body you write.
+04/12/2022, 20:15 - +91 95959 59773: Guys they have taken theoretical concept and Avnish is taking practical concept which is kind of pro level with MLOps.We have to practice more.For MLOps lectures are there on dashboard.Go through it.
+04/12/2022, 20:16 - +91 98250 15084: Aniket ..if you understand it.. then it fine.. 
+
+Bt we have also paid.. 
+And they should teach like everybody should understand..
+04/12/2022, 20:16 - +91 98250 15084: It is not about 1-2 students..
+04/12/2022, 20:16 - +91 98250 15084: Every student of may 2022 batch should understand..
+04/12/2022, 20:17 - +91 98250 15084: And they should not go to next topic untill each and every student has the whole concept clear in mind.
+04/12/2022, 20:17 - +91 90042 57538: What you are not understanding??
+04/12/2022, 20:18 - +91 89995 47341: Exactly
+04/12/2022, 20:18 - +91 98250 15084: Project part from day 2..
+04/12/2022, 20:18 - +91 95959 59773: Guys it all about OOPs.Can we ask to take it again?
+04/12/2022, 20:18 - +91 90042 57538: Coding wise?
+04/12/2022, 20:19 - +91 98250 15084: Yes
+04/12/2022, 20:19 - +91 95959 59773: https://youtu.be/Trvqq5w7-0Q
+04/12/2022, 20:20 - +91 95959 59773: Go through this plyalist
+04/12/2022, 20:21 - +91 95959 59773: It might help
+04/12/2022, 20:21 - +91 95959 59773: This is free
+04/12/2022, 20:21 - +44 7831 624309: It's 799/month if we have to enroll
+04/12/2022, 20:22 - +91 95959 59773: If we need mentorship
+04/12/2022, 20:23 - +91 95959 59773: Your all doubt related to Avnish coding will get resolved once you go through it.
+04/12/2022, 21:05 - +91 79755 70668: Thank u Ankit.
+04/12/2022, 21:11 - +91 81785 68253: What's the email ID of divyanshu and Krish can someone please share?
+04/12/2022, 21:23 - +91 89995 47341: sudhanshu@ineuron.ai
+krish.naik@ineuron.ai
+04/12/2022, 21:40 - +91 81785 68253: Mail sent to them with subject line *"[Urgent] Concern regarding live classes"*
+04/12/2022, 21:52 - +91 98250 15084: What is written in content.. ?
+04/12/2022, 21:54 - +91 81785 68253: I just mentioned that I'm unable to understand whatever Avnish is explaining and the same is other's experience too. So they may let Sunny take the sessions
+04/12/2022, 21:56 - +91 98250 15084: Okk.. 
+I also send same mail
+04/12/2022, 21:56 - +91 81785 68253: Perfect 👍🏻
+04/12/2022, 22:14 - +91 90129 22002: But Avanish is project expert that's why he is taking classes, as told by Krish sir himself in the beginning of project. If sunny could, they wouldn't have call Avanish.
+04/12/2022, 22:16 - +91 81785 68253: That might be but my job was to make them aware of the problem that I'm facing at first. I can have a discussion with them if they are up for it and accordingly come to a conclusion
+04/12/2022, 22:18 - +91 90129 22002: You guys also want it to be industry standard. So I think it requires little extra effort. I am also facing the difficulty but i know only i need to pay more attention and put some more efforts
+04/12/2022, 22:20 - +91 81785 68253: Industry standard? Sorry i didn't get that
+04/12/2022, 22:21 - +91 79997 44064: +1
+04/12/2022, 22:22 - +91 98250 15084: +1
+04/12/2022, 22:22 - +91 90129 22002: This is just replication of real problem and when it comes to the real scenario things may be more complex and tougher. Why don't you start thinking like you are dealing with some real problem and you have to deal with it instead of blaming and other things
+04/12/2022, 22:24 - +91 90129 22002: The level of work you have to do after joining
+04/12/2022, 22:25 - +91 81785 68253: Makes sense but the question that i have for myself now is "Should i spend my time on these live classes anymore or not?". Because the expectations from the day 1 had been set that the content being delivered in these classes is sufficient enough and there is no need to go through anything else. So far things were going well, now it took a downturn from last week which is not justified according to me.
+04/12/2022, 22:26 - +91 81785 68253: Before that we need to understand the basics. If I'm unable to understand the flow of execution, how can i build a project?
+04/12/2022, 22:28 - +91 98250 15084: right
+04/12/2022, 22:28 - +91 90129 22002: It will take time, so better to give yourself some time to digest these things
+04/12/2022, 22:28 - +91 90042 57538: +1
+04/12/2022, 22:30 - +91 90129 22002: Try to remember when you started learning python. Initially we didn't get anything but slowly our grip getting tighter and tighter
+04/12/2022, 22:31 - +91 90129 22002: And when you go back after some time, then you realise how easy it was.
+04/12/2022, 22:31 - +91 95952 53520: 90+ % people not understand Avnish code
+04/12/2022, 22:32 - +91 90042 57538: No they are facing issue regarding to explanation
+04/12/2022, 22:32 - +91 90042 57538: Few of them have problem with code
+04/12/2022, 22:33 - +91 95952 53520: Yes.... Explanation
+04/12/2022, 22:33 - +91 90129 22002: What if this is the reality of work you are going to do or what people expect you to do?
+04/12/2022, 22:34 - +91 95959 59773: I will suggest go through the ML project session taken by Sudhanshu sir that are available on dashboard.
+04/12/2022, 22:34 - +91 95959 59773: There is no excuse for hardwork
+04/12/2022, 22:35 - +91 81785 68253: Initially i was able to understand things with great ease. Also we knew it that we were in the right hands. I've been watching Krish videos from a long time and that's where that trust was developed.
+
+Speaking of giving more time, i honestly have less time for experimentations. Most of us are working and time is valuable for us.
+Let's say 1 month down the line we could not understand anything at all. This 1 month of time will be go in vain.
+04/12/2022, 22:36 - +91 81785 68253: Problem is with the explanation, not with the code i guess.
+04/12/2022, 22:37 - +91 81785 68253: I think you currently are working in tech role? Please correct me if I'm wrong
+04/12/2022, 22:39 - +91 90129 22002: I have gone through last year ml project recordings, only explanation was there code was written already.
+04/12/2022, 22:40 - +91 81785 68253: That might help as i believe understanding the concept is more important
+04/12/2022, 22:40 - +91 90129 22002: I think this is great opportunity for us to see how they use to write code.
+04/12/2022, 22:40 - +91 90129 22002: No I'm student only
+04/12/2022, 22:57 - +91 89995 47341 left
+05/12/2022, 00:18 - +91 79855 54980: Just by seeing .. we might feel ok .. at that point but going ahead .. when v have to do it by ourselves.. we will get stuck
+05/12/2022, 10:03 - +91 6280 963 446: https://youtu.be/MhWRwkrwJjY
+05/12/2022, 22:00 - +91 98250 15084: <Media omitted>
+05/12/2022, 22:00 - +91 98250 15084: My feedback of live class..
+05/12/2022, 22:15 - +91 99397 90052: Yes it is true.
+05/12/2022, 22:18 - +91 98182 66826: Totally Agree with this. Same feeling bro. Every working professional is short of spare time, very hard to manage work time, along with family and study things at the same time as they are going on.. Even I am now feeling cornered for the zeal of my transition.. till python, everything was going smooth and great. Starting ML, everything got mixed up..
+05/12/2022, 22:25 - +91 99397 90052: We have to study prepared by our own then only it's helpful. Even in explaining/teaching also very very fast and hurriedly they want to finish if we learnt or not. This is what I am feeling and experiencing in ineuron sir.
+05/12/2022, 22:27 - +91 98250 15084: Plz write all this in feedback form..
+05/12/2022, 22:28 - +91 98182 66826: Y v hv paid. When we had to study by own. Courses available there at YouTube. Just watch and prepare urself. Please don't mind, take it in a healthy manner.
+05/12/2022, 22:29 - +91 98182 66826: Not much difference than school then, it means. They also teach fast and in hurry and we have to prepare us by self
+05/12/2022, 22:39 - +91 97168 98919: See, while constructing a building important thing is the foundation and pillars. Building the walls are other things are relatively easy, though time taking but are easy.  Foundation of python and ML is  been laid down by the Sudhanshu and Krish naik. Now rest of the things are easy and need to be done on our own. 
+
+See, you need to come out of this mind makeup like every line of code needs to run and executed in front of you and when everyone understands then write another line of code. If this is the case then whats the use to invest 6 months in learning python code. And with this speed even a year would be less for you to complete the project. 
+
+I am not advocating the iNeuron but things are not that difficult. 
+
+Yes understanding the codes are difficult and for that you need to sit and watch.
+05/12/2022, 22:46 - +91 97168 98919: See, first self study is key to success, eventually, you have to read on your own. If you are not doing self study, even 100 times krish will explain every thing still there are chances that will miss one or more concepts. 
+
+If you have numbers from 1 to 100 in your course then whats the use going beyond 100. And you learn those numbers very fast then how can you say that are teaching very very fast. See they can go on repeating same concept 4 - 5 times in a class. Thats not feasible. 
+
+So better do self study. Just my suggestion
+05/12/2022, 22:48 - +91 99397 90052: Yes. That's what I have been following.
+05/12/2022, 22:48 - +91 90042 57538: Follow what sunny sir told us in today's class
+05/12/2022, 23:34 - +91 6398 155 889: This message was deleted
+06/12/2022, 12:52 - +91 76069 87853 joined using this group's invite link
+06/12/2022, 12:09 - +91 94500 61215: <Media omitted>
+06/12/2022, 12:17 - +91 97168 98919: Petal length and petal width
+06/12/2022, 12:18 - +91 94500 61215: bro..but why?
+06/12/2022, 12:18 - +91 94500 61215: and it is taking about,,in which cluster making good
+06/12/2022, 12:21 - +91 97168 98919: <Media omitted>
+06/12/2022, 12:22 - +91 97168 98919: This is the source of my answer. I don't have reason but I think this could be correct
+06/12/2022, 12:43 - +91 6280 963 446: https://youtu.be/1RgvaPhXkKk
+06/12/2022, 15:37 - +91 88478 94318: which book
+06/12/2022, 16:03 - +91 96404 90672: Guys any one has notes for Time series.I can't see it in resources section ..
+06/12/2022, 16:54 - +91 97168 98919: <Media omitted>
+06/12/2022, 23:20 - +91 90042 57538: <Media omitted>
+06/12/2022, 23:30 - +91 88478 94318: thanks buddy ✌️
+06/12/2022, 23:35 - +91 96698 39680: Thank you
+06/12/2022, 23:37 - +91 84119 11153: Thanks 👍
+07/12/2022, 00:43 - +44 7831 624309: https://t.me/DataScience_224
+
+Some good materials shared here
+07/12/2022, 02:47 - +91 92059 79486: In linear regression, if accuracy is not improving by removing correlated variables or less significant variables, then which is better? Should i remove the variables or not?
+07/12/2022, 10:02 - +91 6280 963 446: <Media omitted>
+07/12/2022, 10:04 - +60 11-2419 2738: Ok
+07/12/2022, 23:06 - +91 99875 64492: Add data
+07/12/2022, 23:14 - +91 92059 79486: Should I remove the variables or not?
+07/12/2022, 23:15 - +91 88478 94318: yes, or try to combine any other column to get a new column, that might add value
+07/12/2022, 23:16 - +91 92059 79486: okay
+09/12/2022, 18:25 - +91 6280 963 446: https://youtu.be/f5__pMhdCZw
+09/12/2022, 18:28 - +91 92059 79486: Tomorrow or day after tomorrow? It is mentioned as Sundays
+09/12/2022, 18:28 - +91 6280 963 446: Tomorrow and day after tomorrow as well
+09/12/2022, 18:28 - +91 6280 963 446: Seperate session don't worry
+09/12/2022, 21:26 - +91 94500 61215: <Media omitted>
+09/12/2022, 21:26 - +91 94500 61215: Open nhi ho rhi
+09/12/2022, 21:29 - +91 99675 57017: It's working
+09/12/2022, 21:33 - +91 94500 61215: Ya.. Network issue
+09/12/2022, 23:47 - +91 92059 79486: Can we consider our model to be general if differences between test and train accuracy (adjusted r squared) is 6%? Traini accuracy: 96 and test accuracy : 90
+10/12/2022, 00:57 - +91 81785 68253: I think it's general, 6% isn't much
+10/12/2022, 01:11 - +91 92059 79486: Okay. Thanks
+10/12/2022, 12:19 - +91 6280 963 446: https://youtu.be/4SkeMldbFaE
+10/12/2022, 16:05 - +91 6290 268 376: If anybody has completed model tuning for sensor project. Please share GitHub link for reference.
+12/12/2022, 18:27 - Tarun Rao: You deleted this message
+12/12/2022, 18:28 - Tarun Rao: Do we have class on weekends ?
+12/12/2022, 18:58 - +91 81785 68253: I believe yes
+12/12/2022, 18:59 - Tarun Rao: No I mean sir said they will have a holiday right
+12/12/2022, 18:59 - Tarun Rao: thatswhy they took additional sessions
+12/12/2022, 18:51 - +91 79855 54980 changed to +91 99187 66728
+12/12/2022, 18:52 - +91 99187 66728 changed to +91 79855 54980
+12/12/2022, 19:04 - +91 6280 963 446: New data science learners frequently struggle with the decision of whether to pursue careers as data scientists or data analysts. Here, you will find complete guidance on both fields.
+
+https://youtu.be/bTxHhSrgoik
+12/12/2022, 21:54 - +91 90042 57538: Which topic is sir is teaching??
+12/12/2022, 21:55 - +91 88478 94318: text classification with Naïve Bayes
+12/12/2022, 22:02 - +91 97176 81545: This is not for our batch
+12/12/2022, 22:03 - +91 79855 54980: But easy to understand
+12/12/2022, 22:03 - +91 97176 81545: This is for may batch
+12/12/2022, 22:03 - +91 90042 57538: I'm from may batch
+12/12/2022, 22:04 - +91 97176 81545: Ok
+12/12/2022, 22:04 - +91 97176 81545: Sorry bro I'm from September batch
+12/12/2022, 22:04 - +91 84119 11153: +1
+12/12/2022, 22:25 - +91 70206 63067: <Media omitted>
+12/12/2022, 22:26 - +91 70206 63067: Can anyone answer this
+12/12/2022, 22:48 - +91 79755 70668: Card Visual and Edit interactions
+12/12/2022, 22:51 - +91 98250 15084: what is this ??
+13/12/2022, 00:37 - +91 70206 63067: Some questioner from one workshop my friend attended
+13/12/2022, 00:38 - +91 98250 15084: Ok
+13/12/2022, 19:25 - +91 90218 58584: Guys did this problem with avnish mentor got solved?
+13/12/2022, 19:27 - +91 81785 68253: Don't know but in the last class he explained the project structure clearly and that was understandable to me
+13/12/2022, 23:41 - +91 6280 963 446: https://youtu.be/vJFIBXRnPUc
+14/12/2022, 20:27 - +91 92059 79486: Aaj class h kya?
+14/12/2022, 20:32 - +91 88904 56326: What class?
+14/12/2022, 20:34 - +91 92059 79486: 8:30 extra class
+14/12/2022, 20:34 - +91 92059 79486: Link is there in the dashboarding
+14/12/2022, 20:35 - +91 88478 94318: na aaj nhi h
+14/12/2022, 20:35 - +91 70237 56844: No
+14/12/2022, 20:47 - +91 92059 79486: Okay thanks
+16/12/2022, 11:56 - +91 6280 963 446: Have you ever wondered how to do Exploratory Data Analysis?
+Would you like to know to how to find insights from data?
+
+Below you can find complete Data Analysis Series on different Kaggle Dataset.
+
+Hotel Booking Data Analysis Project: https://lnkd.in/dD4S2phy
+
+IPL Data Analysis Project: https://lnkd.in/d7T2XaRn
+
+Restaurant Review Prediction Project: https://lnkd.in/dsVVKT6p
+17/12/2022, 15:13 - +91 92059 79486: When will Sunny start teaching?
+17/12/2022, 15:22 - +91 81785 68253: 03:30
+17/12/2022, 15:22 - +91 92059 79486: Thanks
+17/12/2022, 15:29 - +91 81785 68253: No probs
+17/12/2022, 20:31 - +91 6280 963 446: <Media omitted>
+17/12/2022, 20:31 - +91 6280 963 446: Now, iNeuron to Collage Wallah
+17/12/2022, 20:32 - +91 88478 94318: great
+17/12/2022, 20:32 - +91 88619 37985: We will get more job opportunities...
+17/12/2022, 20:32 - +91 88478 94318: what is the idea of the venture>
+17/12/2022, 20:33 - +91 6280 963 446: Hope
+17/12/2022, 20:33 - +91 88478 94318: @916280963446 ?
+17/12/2022, 20:34 - +91 90042 57538: ❤️
+17/12/2022, 20:34 - +91 90042 57538: Series bhi aaya hai
+17/12/2022, 22:26 - +91 99875 64492: ab ye log bhi cringe reels banayenge 😓😓
+18/12/2022, 10:27 - +91 77081 21800: Check out this job at PeopleLikeTheWordGrowth: https://www.linkedin.com/jobs/view/3404270924
+18/12/2022, 10:28 - +91 6280 963 446: https://youtu.be/0ELK_49EL_o0
+18/12/2022, 11:27 - +91 94500 61215: <Media omitted>
+18/12/2022, 11:27 - +91 94500 61215: <Media omitted>
+18/12/2022, 11:27 - +91 94500 61215: this i want.but above one is..outputt
+18/12/2022, 11:28 - +91 94500 61215: bin_string = "1111111111000101000000000000000110000000000000000000000000011010"
+
+for idx, x in enumerate(bin_string, start=1):
+        print(idx, x)
+18/12/2022, 11:28 - +91 94500 61215: code
+18/12/2022, 11:28 - +91 94500 61215: anyone..
+18/12/2022, 20:39 - +91 98368 99312: Hi all,  please like my page - https://www.instagram.com/datascience_random
+18/12/2022, 20:43 - +91 98368 99312: Hi all,  please like my fb page- https://www.facebook.com/profile.php?id=100085554023750
+19/12/2022, 12:04 - +91 6280 963 446: https://youtu.be/uOPZZrrcKKs
+19/12/2022, 12:04 - +91 6280 963 446: Project live
+19/12/2022, 13:02 - +91 97168 98919: Anyone interested to teach Data Science/ python in UpGrad LPU campus Punjab. 
+Please ping me 
+Salary: 50000 per month
+It's an urgent requirement
+19/12/2022, 13:02 - +91 88478 94318: full time?
+19/12/2022, 13:03 - +91 97168 98919: Yes fulltime and offline
+19/12/2022, 14:21 - +91 79855 54980: Could u guys able to login to neurolab jupyter ??
+19/12/2022, 14:21 - +91 79855 54980: Page
+19/12/2022, 18:18 - +91 96698 39680: <Media omitted>
+19/12/2022, 18:23 - +91 96859 11215: Wrong url probably. Which data set is this
+19/12/2022, 18:28 - +91 96698 39680: No it's in my github earlier I used to get Data but now it's showing error
+19/12/2022, 18:29 - +91 96859 11215: Which dataset?
+19/12/2022, 18:38 - +91 96698 39680: Sensor fault
+19/12/2022, 19:23 - +91 90909 52427: Hi, facing issue with 27 nov class.
+Avnish was too fast. Audio & video not sync
+19/12/2022, 22:49 - +91 6280 963 446: Guys, I need some advice, What kinds of projects are you looking for, please? Machine Learning, Deep Learning or Advanced NLP, Power BI?
+19/12/2022, 22:49 - +91 6280 963 446: On my Youtube Channel
+19/12/2022, 22:49 - +91 6280 963 446: Kindly suggest
+19/12/2022, 22:50 - +91 92059 79486: Deep learning of advanced NLP
+19/12/2022, 22:55 - +91 6280 963 446: Okay, thanko you
+19/12/2022, 22:55 - +91 6280 963 446: as for the current market standard, let me select NER or Question Generation related project
+19/12/2022, 22:55 - +91 88478 94318: +1
+19/12/2022, 22:56 - +91 92059 79486: Can you please include the code in the description
+19/12/2022, 22:58 - +91 6280 963 446: Updated
+19/12/2022, 22:59 - +91 92059 79486: Thanks
+19/12/2022, 23:00 - +91 6280 963 446: Now, i'm going to announce, raise your demand, It will be available in next 15 days. but makesure, for the project notification you can subscribe here: https://www.youtube.com/@engineeringwalabhaiya
+20/12/2022, 22:29 - +91 92059 79486: Can someone tell me how to create virtual environment in windows?
+20/12/2022, 22:29 - +91 92059 79486: I'm trying and it is giving some permission error
+20/12/2022, 23:28 - +91 96859 11215: Are you trying in pycharm? 
+Try opening it in admin mode or create a venv where you want manually through cmd and add it to pycharm project
+20/12/2022, 23:29 - +44 7831 624309: Hello All, has anyone try to have maintain project using a local vscode rather than using neurolab
+20/12/2022, 23:32 - +91 6280 963 446: <Media omitted>
+20/12/2022, 23:33 - +44 7831 624309: What's pw?
+20/12/2022, 23:34 - +91 97168 98919: In pycharm
+20/12/2022, 23:35 - +91 76088 83617: I have
+20/12/2022, 23:35 - +44 7831 624309: Vscode? I mean for complete project
+20/12/2022, 23:40 - +44 7831 624309: Thanks, could you be able to give some sort of a how to? As during the lesson they said to stick to lab as more installation is required if need to be done locally...I tried myself but got few error and stopped then to catch up with lessons
+20/12/2022, 23:45 - +91 76088 83617: How to what ?
+20/12/2022, 23:54 - +91 92059 79486: Thanks
+20/12/2022, 23:55 - +91 92059 79486: I am trying to use streamlit but getting many errors related to python version. Did anyone try streamlit every?
+21/12/2022, 07:47 - +91 97309 42181: Gae 🐃🐃 pani me
+21/12/2022, 07:47 - +91 97309 42181: Hame koi phayda hai kya ese se
+21/12/2022, 09:08 - +91 94500 61215: Paise waapas maang lo
+21/12/2022, 09:08 - +91 94500 61215: 😂😂
+21/12/2022, 09:29 - +91 96859 11215: Is this a rebrand or their courses will now also be on pw skills🤔
+21/12/2022, 09:57 - +91 6290 268 376: To get rid of the permission error I ran the below command in power shell and it is working for me now. I am using VS Code in my local
+21/12/2022, 09:57 - +91 6290 268 376: Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+21/12/2022, 10:10 - +91 92059 79486: Yup, same thing I have done and it is working. But still not able to run streamlit. Some python version issue is there
+21/12/2022, 12:07 - +91 6280 963 446: https://youtu.be/6Okg6dDIuLI
+21/12/2022, 12:07 - +91 6280 963 446: Live now
+21/12/2022, 12:07 - +91 6280 963 446: Guys, if possible please subscribe and share with your friends as well
+21/12/2022, 13:58 - +91 90129 22002: <Media omitted>
+21/12/2022, 14:03 - +91 76088 83617: I did
+21/12/2022, 14:03 - +91 76088 83617: Do one thing 
+Use Apache version 2.2
+21/12/2022, 14:05 - +91 76088 83617: *2.2.4
+21/12/2022, 14:21 - +91 90129 22002: You mean apache-airflow==2.2.4
+21/12/2022, 14:31 - +91 90129 22002: It worked thank you
+21/12/2022, 14:40 - +91 76088 83617: Welcome
+22/12/2022, 18:19 - +91 90218 58584: <Media omitted>
+22/12/2022, 18:19 - +91 90218 58584: https://m.economictimes.com/tech/startups/physicswallah-forays-into-upskilling-with-ineuron-acquisition/articleshow/96425757.cms
+22/12/2022, 18:26 - +91 90218 58584: If they ain't providing job guarantee they should atleast provide job assistance stuff like mock interviews
+22/12/2022, 18:27 - +91 79755 70668: So this is the reason Krish is not taking our ML classes 😐
+22/12/2022, 18:28 - +91 97309 42181: Bhai L lag gaye fir,
+22/12/2022, 18:28 - +91 97309 42181: Refund chahiye hoga fir
+22/12/2022, 18:28 - +91 99875 64492: Refund maango bc
+22/12/2022, 18:29 - +91 97309 42181: Ha....
+22/12/2022, 18:29 - +91 79855 54980: Ye kya Naya natak hain
+.
+22/12/2022, 18:31 - +91 90218 58584: We should ask them whether job guarantee is there for ongoing batches
+22/12/2022, 18:31 - +91 90218 58584: Also our internship
+22/12/2022, 18:32 - +91 90218 58584: Is Krish Naik teaching in ML recorded videos?
+22/12/2022, 18:34 - +91 77081 21800: May be it's for upcoming batches or they might provide an alternative service i guess
+22/12/2022, 18:34 - +91 90218 58584: Yeah
+22/12/2022, 18:35 - +91 79755 70668: I could see only Sunny has taken the classes.  Anyone in group can confirm..
+22/12/2022, 18:35 - +91 90218 58584: Okay
+22/12/2022, 18:41 - +91 95952 53520: Bhai refund chhoda.... Jo itna time gaya hai.......7 to 8  month
+22/12/2022, 18:42 - +91 99675 57017: Current batch ke liye job guarantee program hai
+22/12/2022, 18:42 - +91 95952 53520: Ek to Career Non IT to IT aane ke liye fsds join kiya tha
+22/12/2022, 18:42 - +91 99675 57017: Upcoming batches ke liye nhi hoga
+22/12/2022, 18:43 - +91 90218 58584: This message was deleted
+22/12/2022, 18:43 - +91 90218 58584: Sudhanshu Sir taught ML in recorded classes
+22/12/2022, 18:50 - +91 96859 11215: This article is worded wrong. 100% of S. Chand's stake is sold to PW. 
+It's a minority 6% stake they have in iNeuron
+22/12/2022, 18:50 - +91 96859 11215: Alsoa i don't think existing programs won't have any change in their terms so no need to panick
+22/12/2022, 18:52 - +91 79755 70668: I just now check the Discord and it is mentioned as Ineuron merger with PW
+22/12/2022, 18:54 - +91 79755 70668: No need to panic. I hope we will get the content what they have promised
+22/12/2022, 18:55 - +91 96859 11215: <Media omitted>
+22/12/2022, 18:55 - +91 79755 70668: If anyone is joining today Class then anyone can confirm in the class itself
+22/12/2022, 20:04 - +91 79855 54980: Par ye sab merger ka jarurat kya ta .. 
+Mast to chal raha ta ineuron ..
+22/12/2022, 20:05 - +91 90042 57538: Teachers gareeb ho rahe hai
+22/12/2022, 20:05 - +91 90042 57538: Isliye
+22/12/2022, 20:06 - +91 90042 57538: null
+22/12/2022, 20:08 - +91 90218 58584: It's just that S Chand has invested 7 crore in Ineuron  December 2021 that is 6% of total stake 
+And sold that stake to PW now for 14 crores
+So ineuron got a new and big investor that is PW
+22/12/2022, 20:10 - +91 90042 57538: Just hope for they do not remove all the facilities they provided till now
+22/12/2022, 20:10 - +91 90042 57538: Baki yarr karo kuch bhi
+22/12/2022, 20:10 - +91 90218 58584: Last time also merger happened between LCO of Hitesh Sir and Ineuron
+22/12/2022, 20:10 - +91 90218 58584: In April or May 2022
+22/12/2022, 20:11 - +91 90218 58584: https://youtu.be/llDretTTw30
+22/12/2022, 20:13 - +91 88478 94318: See iNeuron provided us a lifetime course material along with live classes, we cannot deny the fact.
+
+Moreover, why are pre-assuming that there is no job guarantee for our batch?
+
+We should focus on building our skills, as the recorded content is good on the provided cost, also not neglecting the fact that, many of us doesn't know basic things, as we depend on spoon feeding and depends on them
+22/12/2022, 20:17 - +91 88478 94318: at the end of the day, everyone's target is good takeaway, so y dont they?
+22/12/2022, 20:32 - +91 90218 58584: Yes we should truly be grateful for the quality and quantity of content we are getting from Ineuron for such affordable price. 
+
+In April I had applied for internship at some company and they reverted back with a NLP assignment but that time l couldn't solve it as I didn't even have a programming background.
+When l joined Ineuron l saw that same assignement project in the dashboard 
+So l was glad that l came to the right place
+22/12/2022, 20:33 - +91 88478 94318: Those who are joining today's class, take a clarification abt the job guarantee we'all are worried abt,
+22/12/2022, 20:33 - +91 88478 94318: one shot all will be cleared
+22/12/2022, 20:33 - +91 90218 58584: Do this as top priority guys thanks
+22/12/2022, 20:58 - +91 90218 58584: <Media omitted>
+22/12/2022, 21:14 - +44 7831 624309: https://www.linkedin.com/posts/ineuron-ai_tech-ai-quality-activity-7011700868303523840-9WDJ?utm_source=share&utm_medium=member_android
+22/12/2022, 21:28 - +91 78549 35445: <Media omitted>
+22/12/2022, 22:49 - +91 70206 63067: don't worry job garranteed program will be there
+
+https://youtu.be/gV-f6cNIplU
+23/12/2022, 07:26 - +91 79755 70668: https://www.livemint.com/companies/news/s-chand-sells-entire-stake-in-ineuron-to-physicswallah-at-rs-14-crore-11671701581246.html
+23/12/2022, 07:28 - +91 79755 70668: This shows the reputation of iNeuron . In one year S Chand has double is amounts. That means we are in best place. 🥰
+23/12/2022, 12:04 - +91 6280 963 446: https://youtu.be/zXpmaBx4fS4
+23/12/2022, 12:04 - +91 6280 963 446: Live now
+25/12/2022, 08:28 - +91 70582 99533 joined using this group's invite link
+25/12/2022, 19:04 - +91 93903 94878: https://bwdisrupt.businessworld.in/article/Physics-Wallah-Acquires-100-Stake-In-iNeuron-For-Rs-250-Cr/24-12-2022-459331/
+26/12/2022, 19:05 - +91 92059 79486: Hi all, 
+Did anyone try running flask app on local host using ineuro lab?
+26/12/2022, 19:18 - +91 88478 94318: any problem u r facing?
+26/12/2022, 19:28 - +91 92059 79486: Yes, not able to run flask or any webapp on kocalhost
+26/12/2022, 20:50 - +91 88904 56326: What do to do to get a job as data analyst
+26/12/2022, 20:51 - +91 88904 56326: Can anyone help help me with that
+26/12/2022, 20:52 - +91 79855 54980: Basic Python
+SQL 
+Statistics
+Basic excel 
+EDA 
+Power Bi / Tableau.. 
+
+Storytelling
+26/12/2022, 20:52 - +91 88904 56326: Okay do you have recommendation for statistic book
+26/12/2022, 20:54 - +91 79855 54980: No.. 
+But if u r from FSDS batch 
+. Just go through the entire stats part from previous recorded sessions.. 
+Or watch out the entire Krish playlist on YouTube on statistics.. that will be best to start with..
+26/12/2022, 20:56 - +91 79855 54980: Also learn a gud amount of probability also ..
+26/12/2022, 21:11 - +91 88904 56326: Okay
+26/12/2022, 21:12 - +91 88904 56326: Thanks
+26/12/2022, 21:12 - +91 79855 54980: Ok
+26/12/2022, 21:29 - +91 88478 94318: This message was deleted
+26/12/2022, 21:29 - +91 88478 94318: This message was deleted
+27/12/2022, 03:05 - +91 99397 90052: https://youtube.com/playlist?list=PLZ2ps__7DhBYrMs3zybOqr1DzMFCX49xG
+27/12/2022, 03:08 - +91 90218 58584: Wow they made this available on youtube 
+Damn nice
+27/12/2022, 03:09 - +91 99397 90052: Really wonderful for DS
+27/12/2022, 03:10 - +91 90218 58584: 😂 we are getting IIT's course of data science for free
+27/12/2022, 03:10 - +91 99397 90052: Yes definitely
+27/12/2022, 03:14 - +91 99397 90052: With this(IIT Madrass statistics )  learning on power BI is very helpful. These two are very good combinations I found.
+27/12/2022, 03:23 - +91 99397 90052: https://youtu.be/Gd2B3kUE6Y4
+27/12/2022, 13:29 - +91 93719 83850: Using neurolab, the address localhost:portno will not work. Localhost needs to be replaced by your lab's url followed by port no. Something like this- url.ineuron.app:5000
+27/12/2022, 13:32 - +91 92059 79486: Thanks bro. I will try this.
+27/12/2022, 20:09 - +91 98111 07575: <Media omitted>
+27/12/2022, 20:11 - +91 76088 83617: Give a specific version 
+May be that will work
+27/12/2022, 20:12 - +91 98111 07575: Tried wid d same version even upgraded.. stil not working
+27/12/2022, 20:24 - +91 76088 83617: Correct the spelling 
+apache-airflow
+27/12/2022, 20:31 - +91 98111 07575: 🧐 much appreciated!! It worked..
+27/12/2022, 23:10 - +91 81785 68253: Did anyone tuned hyper parameters of VotingClassifier using RandomSearchCV?
+It may sound strange but It's not taking more than 10 key value pairs of parameters.
+28/12/2022, 00:47 - +91 88478 94318: can you share screenshot for the same
+28/12/2022, 00:49 - +91 81785 68253: It was throwing some ValueError without exact message. The moment i remove a few parameters, it worked fine. Ill share the screenshot tomorrow but that may not be helpful
+28/12/2022, 00:51 - +91 88478 94318: okay, inbox me the ss
+28/12/2022, 00:52 - +91 88478 94318: then we can discuss the same
+28/12/2022, 02:19 - +91 98368 99312: <Media omitted>
+28/12/2022, 07:55 - +91 98677 16992: Uninstall it and then again install
+28/12/2022, 09:52 - +91 93719 83850: Type extension is used to define data type annotations in python. It has nothing to do with parameter tuning. Also in line 8 and 9 you are reading CSV and doing profiling. You are not using type annotations here. You can delete imports at line 3,4,5.
+28/12/2022, 12:06 - +91 6280 963 446: https://youtu.be/UPsBJA3beVs
+28/12/2022, 13:47 - +91 98368 99312: Now it is working..thank you 👍
+28/12/2022, 18:31 - Tarun Rao: <Media omitted>
+28/12/2022, 18:33 - +91 99379 99162: Check if there is space after -e. Remove it and try again
+28/12/2022, 18:34 - Tarun Rao: so -e . or -e
+28/12/2022, 18:35 - +91 99379 99162: -e .
+28/12/2022, 18:35 - +91 99379 99162: Check space after dot
+28/12/2022, 18:35 - Tarun Rao: space is not there
+28/12/2022, 18:41 - Tarun Rao: so what should I do ?
+28/12/2022, 18:44 - +91 99379 99162: Sorry I don't know.
+ Once I was facing the same issue but it was resolved  by removing space.
+28/12/2022, 18:45 - Tarun Rao: oh ok
+28/12/2022, 18:48 - Tarun Rao: @919937999162 solved the problem
+28/12/2022, 18:48 - Tarun Rao: thanks
+28/12/2022, 18:49 - Tarun Rao: I made spelling mistake
+28/12/2022, 18:49 - Tarun Rao: instead of requirement I typed requirements
+28/12/2022, 18:49 - Tarun Rao: in the setup file
+28/12/2022, 18:49 - +91 99379 99162: Ok👍
+31/12/2022, 17:46 - +91 98368 99312: Please connect and endorse each other...
+
+https://www.linkedin.com/in/ruptosh
+31/12/2022, 18:28 - +91 6280 963 446: 5 Complete machine learning project you can find below:
+
+Machine Learning project 1: https://lnkd.in/dU4b_jsV
+
+Machine Learning project 2: https://lnkd.in/dTeADYSa
+
+Machine Learning project 3: https://lnkd.in/dAX8_teV
+
+Machine Learning project 4: https://lnkd.in/d_W-j8xR
+
+Machine Learning Project 5: https://lnkd.in/dpPM5RMc
+31/12/2022, 19:43 - +91 90042 57538: <Media omitted>
+31/12/2022, 19:43 - +91 90042 57538: anyone know how to resolve this i'm trying to push code to github
+31/12/2022, 22:06 - +91 81785 68253: Have you checked user.email and user.name? Most likely this happens when these variables are not set
+31/12/2022, 22:09 - +91 81785 68253: Did this happen with anyone that you created a new feature which has 15% correlation with output feature, yet it's not contributing in accuracy?
+
+This seems strange to me. Any help in this regards is appreciated.
+
+Happy New Year 😌
+31/12/2022, 22:14 - +91 90042 57538: Both are correct I guess
+31/12/2022, 22:16 - +91 81785 68253: Ummm not really what's wrong here. As far as i call recall, i came across probably the same error once. I reset the variables and it started working. Not sure if it's gonna work this time
+31/12/2022, 23:02 - +91 93719 83850: Try to check if you are using https method or SSH method to authenticate. I think with SSH you need personal access token.
+01/01/2023, 00:54 - +91 98368 99312: <Media omitted>
+01/01/2023, 00:56 - +91 97482 63373: <Media omitted>
+01/01/2023, 02:06 - +91 88478 94318: Happy New Year 🤠
+01/01/2023, 06:01 - +60 11-2419 2738: Happy New Year  🎊🎊🎉🎉
+01/01/2023, 08:01 - +91 95952 53520: *नूतन वर्षाच्या आपणा सर्वांना मनापासून शुभेच्छा! येणारे हे नववर्ष आपणांस व आपल्या कुटुंबियांना सुख-समृद्धीचे, आरोग्यदायी व आकांक्षापूर्तीचे जावो या शुभेच्छा!* 💯🎊🎉💫🥳
+
+*Happy New Year 2023*🥳🥳🥳
+01/01/2023, 10:06 - +44 7831 624309: Happy New Year
+01/01/2023, 10:37 - +91 84119 11153: <Media omitted>
+02/01/2023, 12:08 - +91 6280 963 446: https://youtu.be/EEs0oOUmXRM
+02/01/2023, 12:08 - +91 6280 963 446: Live now
+04/01/2023, 00:40 - +91 98368 99312: https://www.linkedin.com/feed/update/urn:li:ugcPost:7016117594361393153/
+04/01/2023, 00:40 - +91 98368 99312: please like and share
+04/01/2023, 12:07 - +91 6280 963 446: https://youtu.be/8XeEnG6o3l4
+04/01/2023, 12:46 - +91 70072 43774: <Media omitted>
+04/01/2023, 12:48 - +91 76088 83617: It should be sensor.config
+04/01/2023, 12:48 - +91 76088 83617: Or untils
+04/01/2023, 12:49 - +91 76088 83617: Check from where importing it
+04/01/2023, 12:50 - +91 70072 43774: From Sensor.exception
+04/01/2023, 12:50 - +91 76088 83617: Does exception file have get_dataframe function?
+04/01/2023, 12:52 - +91 70072 43774: It’s under utils
+04/01/2023, 12:52 - +91 76088 83617: Then import it from there
+04/01/2023, 13:13 - +91 70072 43774: <Media omitted>
+04/01/2023, 13:15 - +91 90909 52427: Some error or codes must be missing
+04/01/2023, 13:19 - +91 70072 43774: <Media omitted>
+04/01/2023, 13:19 - +91 70072 43774: 😭
+04/01/2023, 13:21 - +91 70072 43774: Error is not showing
+04/01/2023, 13:21 - +91 70237 56844: Use raise in exception block
+04/01/2023, 13:22 - +91 70237 56844: It will be easier for u to debug
+04/01/2023, 13:22 - +91 76088 83617: Show the data ingestion component
+04/01/2023, 13:23 - +91 70072 43774: <Media omitted>
+04/01/2023, 13:24 - +91 76088 83617: You have started it …
+How will the artifact dir will get created
+04/01/2023, 13:25 - +91 76088 83617: When you will save the dataset there you use 
+Os.mkdirs
+04/01/2023, 13:25 - +91 76088 83617: Then it will get created
+04/01/2023, 13:26 - +91 76088 83617: This just creates a path not the folder
+04/01/2023, 13:27 - +91 70072 43774: Oh ok
+04/01/2023, 13:30 - +91 70072 43774: Can you help me with that , the recorded videos aren’t synchronised , I’m facing issues because of that some of the video components aren’t showing 😭
+04/01/2023, 13:37 - +91 88904 56326: can somebody help me with this problem
+04/01/2023, 13:38 - +91 88904 56326: <Media omitted>
+04/01/2023, 13:51 - +44 7831 624309: Download files from the Resources and follow it along the video..it would help...I know it was difficult to follow the video...@919371983850 @917608883617 helped me through it....is a challenge!!
+05/01/2023, 14:46 - +44 7831 624309: <Media omitted>
+05/01/2023, 14:47 - +91 79855 54980: Yes
+05/01/2023, 14:48 - +91 90042 57538: Tech neuron is also lifetime?
+05/01/2023, 14:51 - +91 98610 45001: Previously during Teacher's day it was lifetime. But this time it is for 2 years
+05/01/2023, 15:38 - +91 82962 26281: What is the link ??
+05/01/2023, 15:44 - +44 7831 624309: This was an ad send out to me from.PW
+05/01/2023, 16:04 - +91 82962 26281: Ok...
+05/01/2023, 16:33 - +91 96859 11215: Two years
+05/01/2023, 16:33 - +91 96859 11215: End date would be on the dashboard
+05/01/2023, 17:41 - +44 7831 624309: Don't see any in mine, where do we find it please?
+05/01/2023, 17:41 - +91 96859 11215: Go to the one neuron tab/section
+05/01/2023, 17:42 - +91 96859 11215: Valid till is written there
+05/01/2023, 17:43 - +91 96859 11215: <Media omitted>
+05/01/2023, 17:47 - +44 7831 624309: Ok that's one neuron..
+But how about bootcamp FSDS
+05/01/2023, 17:56 - +91 96859 11215: haven't seen that. I answered for tech neuron
+should be lifetime access for non subscription ones
+05/01/2023, 17:56 - +91 96859 11215: ask the team on the website
+05/01/2023, 17:57 - +44 7831 624309: Ok
+05/01/2023, 18:40 - +91 6280 963 446: Hello Everyone, 
+
+I'm planning to start one to one Mentorship, related to projects, resume building, assignment helps and many more. 
+
+You can book a slot with me over Calendly & its a free of cos.
+
+Kindly join here: https://t.me/datascience32 
+
+so that I will share my Calendly credentials with you all.
+05/01/2023, 20:05 - +91 75880 03618: ❤️
+06/01/2023, 10:58 - +91 6280 963 446: https://youtu.be/GZB4MfsR_G0
+06/01/2023, 17:31 - +91 81785 68253: Has anybody registered for Analytics Vidhya Jobathon?
+06/01/2023, 17:31 - +91 81785 68253: Being conducted on 20th Jan
+06/01/2023, 17:54 - +91 72062 13862: What will be the procedure to apply
+06/01/2023, 17:56 - +91 81785 68253: https://tinyurl.com/4hhsby3r
+
+You can apply here. I also haven't registered yet but will do it
+06/01/2023, 17:56 - +91 72062 13862: Thanks @918178568253
+06/01/2023, 17:56 - +91 81785 68253: No problem
+06/01/2023, 21:59 - +91 81785 68253: Is there anyone from credit card industry or have some exposure of this industry?
+I need some help related to a project.
+
+Thanks already
+06/01/2023, 22:13 - +91 92059 79486: Did any use apache airflow from AWS? I have deployed successfully but not able to open Airflow
+06/01/2023, 22:14 - +91 92059 79486: I can't create larger machine.  Any solution will be highly highly appreciated
+06/01/2023, 22:19 - +91 93719 83850: There is a way to run it locally but it needs a lot of configuration changes for docker image, authentication, etc. I am trying to do it but not there yet.
+06/01/2023, 22:21 - +91 92059 79486: Okay bro I can't do lots of changes. I am still not confident with the project code. How they are opening by just changing the port and removing the secure connection
+06/01/2023, 23:04 - +91 92059 79486: Do we need to create airflow account or we can use Avnish's account with the admin as username and password?
+06/01/2023, 23:16 - +91 93719 83850: To run the airflow service, it needs to be configured with username, password and role. It has nothing to do with Avnish's credentials. Anyone with your EC2 app link and credentials can access admin panel. You can give whatever you like. Important is to not share with anyone.
+06/01/2023, 23:19 - +91 92059 79486: Okay Bo. Thanks for the info. Understood now. Tell me one more thing why ec2app link is taking long tim eto open airflow and not opening many times? Is there any catch?
+06/01/2023, 23:22 - +91 93719 83850: Only thing that I can think of is that, free tier ec2 instance is very slow and might be taking very long time to read data from db, process it and training. It might make session to expire. That's my assumption.
+06/01/2023, 23:23 - +91 92059 79486: Yes that's why Avnish has created bigger machine. Is there any other way to test our application if we can not use bigger machince?
+06/01/2023, 23:25 - +91 93719 83850: Yeah, that's what I said about running it on local.
+06/01/2023, 23:26 - +91 93719 83850: Or may be try on azure with the credit you receive when logging it for the first time. You get 50usd I think.
+06/01/2023, 23:26 - +91 92059 79486: Yes, Okay bro you try and please let me know if you succeed.
+06/01/2023, 23:27 - +91 92059 79486: yes, I will try Azure once. Thank you
+06/01/2023, 23:28 - +91 93719 83850: But it also needs same changes and alot of security settings to connect aws ECR with azure vm.
+06/01/2023, 23:29 - +91 92059 79486: I need to study about deployment in depth then only I can make changes. There are lots of code.
+07/01/2023, 01:19 - +91 93719 83850: you can run Airflow locally by installing Docker Desktop first. Then run this command to make a docker image on the local system - "docker build -t sensor ." Mind the dot after sensor(image name). It will take 30-45 min to build a docker image based on your computer specs. Once the image is done, run this command to start container - "docker run -dp 8080:8080 sensor".
+07/01/2023, 01:20 - +91 93719 83850: It will atleast start airflow service & you can see the web app after login. But the pipelines will fail as it will not be able to store your model in S3 bucket.
+07/01/2023, 01:23 - +91 93719 83850: to see the app browse to localhost:8080
+07/01/2023, 01:24 - +91 88478 94318: Thanks, will give it a try now
+07/01/2023, 11:39 - +91 6280 963 446: https://youtu.be/Yqi_34J6EF0
+07/01/2023, 14:22 - +91 92059 79486: ERROR: Could not find a version that satisfies the requirement tenserflow (from versions: none)
+ERROR: No matching distribution found for tenserflow
+Did anyone ever face this error while installing tensorflow from requirements.txt?
+07/01/2023, 14:47 - +91 90042 57538: <Media omitted>
+07/01/2023, 14:48 - +91 92059 79486: Which cmopany?
+07/01/2023, 14:48 - +91 92059 79486: company*
+07/01/2023, 14:49 - +91 90042 57538: ATOP consultants
+07/01/2023, 23:29 - +91 98217 15290: Aaj class me kya padhaya sir ne?
+08/01/2023, 00:00 - +91 88478 94318: PCA
+08/01/2023, 21:42 - +91 96404 90672: Can anyone explain difference between  feature selection algorithms  and dimensionality reduction ??
+08/01/2023, 21:44 - +91 92059 79486: Features selection: you will choose features. Features will remain same , for example just that you have chosen 3 out of 5 features 
+Dimensionality reduction: features are getting transformed. Final components will not be the same as initial features.
+08/01/2023, 21:45 - +91 92059 79486: Dimensionality reduction: you can't decide the features name because it is just transformed data
+08/01/2023, 22:02 - +91 96404 90672: Okay
+08/01/2023, 22:02 - +91 96404 90672: Thank you
+08/01/2023, 23:06 - +91 93719 83850: Very nicely explained 🙂
+08/01/2023, 23:06 - +91 92059 79486: Thanks
+09/01/2023, 00:58 - +91 88478 94318: Hi Guys, 
+Me & Subhash have completed the internship project, go through the link & provide your feedbacks:
+https://www.youtube.com/watch?v=IR4eD6c_p9s
+09/01/2023, 09:13 - +91 97168 98919: Well done. If you could post this in LinkedIn.
+09/01/2023, 09:17 - +91 88478 94318: https://www.linkedin.com/posts/shobhandeb-paul-b6914a168_github-herbert0419insurance-premium-prediction-activity-7017927204500070400-jyvE?utm_source=share&utm_medium=member_android
+09/01/2023, 09:18 - +91 97168 98919: Awesome
+09/01/2023, 09:53 - +91 88478 94318: thanks 🙂
+09/01/2023, 12:06 - +91 6280 963 446: https://youtu.be/he9FrAo6pms
+09/01/2023, 12:06 - +91 6280 963 446: Live now
+09/01/2023, 19:19 - +91 98610 45001: <Media omitted>
+09/01/2023, 19:19 - +91 98610 45001: <Media omitted>
+09/01/2023, 19:20 - +91 98610 45001: On pw skills they decreased the course amount
+09/01/2023, 19:20 - +91 88478 94318: course curriculum is also different,
+we have big data & BI part covered, but there it is not
+09/01/2023, 19:20 - +91 98610 45001: What will be the advantage and disadvantage of taking admission and not taking admission into the course?
+09/01/2023, 19:21 - +91 88478 94318: there is no live class provided
+09/01/2023, 19:21 - +91 90042 57538: They have 80% recorded session and 20% live
+09/01/2023, 19:21 - +91 88478 94318: we have 100% live and 100% recorded
+09/01/2023, 19:21 - +91 88478 94318: .
+09/01/2023, 19:21 - +91 90042 57538: Yes
+09/01/2023, 19:22 - +91 98610 45001: Can we  take admission again for another certificate? We can show off on LinkedIn
+09/01/2023, 19:23 - +91 95952 53520: Our syllabus huge as compare to others.... They will cover all data science & big data content
+09/01/2023, 19:23 - +91 88478 94318: you tell me, is it wise to take same course again and flaunt?... everyone knows the content
+09/01/2023, 19:24 - +91 98610 45001: U r right tho
+09/01/2023, 19:24 - +91 98610 45001: Os der any extra advantage from Pw skills?
+09/01/2023, 19:25 - +91 98610 45001: Is**
+09/01/2023, 19:25 - +91 88478 94318: yes for those, who want to learn only ml & dl , with a reasonable amount
+09/01/2023, 19:25 - +91 88478 94318: dont care about live class supprt, just to brush up
+09/01/2023, 19:27 - +91 98610 45001: Ok
+09/01/2023, 19:30 - +91 98610 45001: It is having 2 years dash board access 🙄
+09/01/2023, 19:30 - +91 98610 45001: Not worth
+10/01/2023, 11:41 - +91 70872 34788: Guys there is several vacancies in my organisation 👇🏻
+10/01/2023, 11:42 - +91 70872 34788: <Media omitted>
+10/01/2023, 11:42 - +91 70872 34788: 4+ years of experience required
+10/01/2023, 11:43 - +91 70872 34788: Can send cv on gaurav.singh@t-systems.com
+10/01/2023, 20:44 - +91 70060 60377: Is there anyone who haven't started making any project till now and going to make in a while?
+10/01/2023, 20:44 - +44 7831 624309: 🙋‍♂️
+10/01/2023, 20:45 - +91 70206 63067: Me
+10/01/2023, 20:46 - +91 72610 58757: 🙋‍♂️
+10/01/2023, 20:46 - +91 81785 68253: Have started yesterday
+10/01/2023, 20:47 - +91 89781 78218: ✋🏼
+10/01/2023, 20:47 - +91 72507 40030: Me
+10/01/2023, 20:47 - +91 98610 45001: ✋🏻
+10/01/2023, 21:02 - +91 90042 57538: <Media omitted>
+10/01/2023, 21:03 - +91 90042 57538: in line no 105 I don't have any thing with named exception
+10/01/2023, 21:03 - +91 97309 42181: ☝️
+10/01/2023, 21:06 - +91 72062 13862: Me
+10/01/2023, 21:19 - +91 93719 83850: Check inside drop_missing_value_columns() function. May be coming from there.
+10/01/2023, 21:22 - +91 77081 21800: 🤚🏻
+10/01/2023, 21:26 - +91 78955 03637: Me
+10/01/2023, 21:32 - +91 92059 79486: Just trace the function missing value wala using ctrl+click ...you can understand them
+10/01/2023, 21:32 - +91 92059 79486: Then*
+10/01/2023, 22:27 - +91 90042 57538: got it thanks
+10/01/2023, 22:36 - +91 98111 07575: <Media omitted>
+10/01/2023, 22:36 - +91 98111 07575: Guys need ur help to resolve the issue..
+10/01/2023, 22:39 - +91 92059 79486: Check your line 8 in yaml file...may some colon is missing
+10/01/2023, 22:39 - +91 92059 79486: May be*
+10/01/2023, 22:41 - +91 98111 07575: <Media omitted>
+10/01/2023, 22:41 - +91 98111 07575: not sure, if any change is required
+10/01/2023, 22:44 - +91 88478 94318: compare main.yaml once again
+10/01/2023, 22:44 - +91 92059 79486: Check in compose yaml or else share your GitHub link
+10/01/2023, 22:45 - +91 98111 07575: sure..
+10/01/2023, 23:02 - +91 90129 22002: Check if space is needed in 8th line After colon in  continuous deployment
+10/01/2023, 23:02 - +91 90129 22002: I am getting same error
+10/01/2023, 23:06 - +91 98111 07575: trying..
+11/01/2023, 02:29 - +91 81785 68253: <Media omitted>
+11/01/2023, 02:30 - +91 81785 68253: I've even changed the user privileged but still not writing anything to collections
+11/01/2023, 02:46 - +91 92059 79486: Did anyone work on discontinuous time series data for multivariate analysis?
+11/01/2023, 08:02 - +91 88478 94318: show the code snippet pl
+11/01/2023, 12:33 - +91 81785 68253: It's the same which Avnish had written.
+Url of mongodb and password is correct too
+11/01/2023, 13:03 - +91 6280 963 446: https://youtu.be/Ess3SRw5ZNo
+11/01/2023, 18:57 - +91 90218 58584: Hey anyone got placed after machine learning module via ineuron?
+11/01/2023, 19:06 - +91 96404 90672: Are you people using Ensemble techniques in your projects I am not able to decide when to use them ?
+11/01/2023, 19:06 - +91 96404 90672: Please Can someone explain?
+11/01/2023, 19:14 - +91 88478 94318: please share your git repo
+11/01/2023, 19:14 - +91 88478 94318: will check
+11/01/2023, 20:09 - +91 92059 79486: It completely depends on the problem statement. I will suggest try all the methods, whichever is giving good results take that. And also ensemble techniques requires high computational power, so decide accu
+11/01/2023, 21:53 - +91 98111 07575: There was an error in the decompose file.. 
+Thanks for ur support!!
+11/01/2023, 21:54 - +91 92059 79486: No issue bro
+11/01/2023, 22:28 - +91 90129 22002: What was the error?
+11/01/2023, 22:30 - +91 98111 07575: I wrote something in front of ports:
+11/01/2023, 22:30 - +91 98111 07575: It ws keying error
+11/01/2023, 23:02 - +91 92059 79486: Can some send me the link of UCI repository which Sunny discussed at the last for the task?
+12/01/2023, 00:21 - +91 81785 68253: Thanks bro... Its been sorter now. I forgot to load the environment variables
+12/01/2023, 00:21 - +91 81785 68253: *sorted
+12/01/2023, 00:43 - +91 88478 94318: Cool
+12/01/2023, 00:43 - +91 88478 94318: no issues
+12/01/2023, 12:32 - +91 98368 99312: <Media omitted>
+12/01/2023, 12:56 - +91 90042 57538: This message was deleted
+12/01/2023, 12:57 - +91 90042 57538: https://www.instagram.com/p/CnTcQPDreQm/?igshid=NTU1Mzc3ZGM=
+12/01/2023, 16:29 - +91 83293 49793 changed to +44 7442 395986
+12/01/2023, 18:17 - +91 6280 963 446: https://www.instagram.com/p/CnTy11Ks0FT/?utm_source=ig_web_button_share_sheet
+12/01/2023, 23:09 - +91 90042 57538: <Media omitted>
+13/01/2023, 00:13 - +91 88478 94318: check your utils.py file
+13/01/2023, 00:13 - +91 90042 57538: Its open
+13/01/2023, 00:13 - +91 90042 57538: The code is from utils.py
+13/01/2023, 12:06 - +91 6280 963 446: On demand playlist on my channel: https://youtu.be/uk2zMF6PA2I
+13/01/2023, 12:07 - +91 6280 963 446: Please share atleast in one WhatsApp group 🙏🏻
+13/01/2023, 13:11 - +91 93719 83850: Try to update numpy package to latest version. Run Pip install numpy --upgrade --ignore-installed
+14/01/2023, 08:08 - +91 79755 70668: Hi Guys, online support has been revoked from iNeuron side? I am trying to connect but now it is coming as offline mesg. Did anyone use earlier this.
+14/01/2023, 08:10 - +91 79755 70668: <Media omitted>
+14/01/2023, 08:11 - +91 90909 52427: They come online within office hours only
+14/01/2023, 08:12 - +91 79755 70668: Ok. Thanks for confirming 👍
+14/01/2023, 08:14 - +91 90909 52427: I never get support email resolution for offline queries. 😅
+14/01/2023, 08:24 - +91 79755 70668: Oh ok
+14/01/2023, 12:55 - +91 92059 79486: Hi everyone,
+Did  anyone complete the task given by Sunny of Activity recognition dataset? Is it a time series or classification problem?
+14/01/2023, 16:59 - +91 70206 63067: Exactly from the merger itself
+14/01/2023, 17:09 - +91 6280 963 446: https://youtu.be/JxdpjhFZM3U
+14/01/2023, 17:09 - +91 6280 963 446: Day 1 started
+15/01/2023, 15:21 - +91 99875 64492: Requirements for one of our consultants payroll with Jio
+
+1.Technical project manager(7-10 years)
+
+2.AI ML developer(3-5 years)
+
+Pls share CVs of interested candidates to my email:
+
+Chaitanya.Shah@ril.com
+
+Share ur resume if anyone's interested ✌🏻
+15/01/2023, 15:21 - +60 11-2419 2738: Salary range?
+For 1 & 2?
+15/01/2023, 15:24 - +91 99875 64492: based on previous
+15/01/2023, 15:33 - +60 11-2419 2738: Ok.
+15/01/2023, 20:15 - +91 98111 07575: Guys any idea why link is not working while testing code from neurolab with https://127.0.0.1:5000/
+
+while the same works if tested at VS code
+
+app.run(debug=True)
+15/01/2023, 20:16 - +91 70237 56844: Because neuro lab work on cloud
+15/01/2023, 20:17 - +91 70237 56844: 127.0.0:5000 work on local
+15/01/2023, 20:17 - +91 98111 07575: pls advice how to test link at neurolab
+15/01/2023, 20:18 - +91 70237 56844: No idea
+15/01/2023, 20:18 - +91 95959 59773: Use flask in neurolab
+15/01/2023, 20:19 - +91 95959 59773: I had same issue
+15/01/2023, 20:21 - +91 95959 59773: But python version might cause issue while unpickling
+15/01/2023, 20:22 - +91 98111 07575: okay.. sharing GIthub link wid you, if possible then pls look into that once u wd get d time
+15/01/2023, 20:23 - +91 95959 59773: Okay
+15/01/2023, 20:24 - +91 98111 07575: Thanks
+15/01/2023, 20:34 - +91 93719 83850: See the browser url, copy everything upto iNeuron.app and append port no. Like this, browser-name-here.ineuron.app:5000
+15/01/2023, 20:35 - +91 93719 83850: Its mentioned in README.md file also. Check readme
+15/01/2023, 20:57 - +91 95959 59773: <Media omitted>
+15/01/2023, 20:58 - +91 95959 59773: Anyone know how to set up environment in neurolab
+15/01/2023, 21:03 - +91 92059 79486: can you check once whether this running for 8000 port or not?
+15/01/2023, 21:03 - +91 93719 83850: Neuroyis already running inside container, no need to make env there. Just pip install directly
+15/01/2023, 21:05 - +91 95959 59773: No
+15/01/2023, 21:09 - +91 98111 07575: let me try dis..
+15/01/2023, 21:09 - +91 92059 79486: OKay
+15/01/2023, 21:09 - +91 98111 07575: tried.. but not working
+15/01/2023, 21:13 - +91 92059 79486: Thanks for trying. Neurolab is working with port 5000 only. Got it
+15/01/2023, 21:30 - +91 95959 59773: Anyone here who got internship completion letter
+15/01/2023, 21:30 - +91 88478 94318: yes
+15/01/2023, 21:31 - +91 95959 59773: It almost two week I didn't
+15/01/2023, 21:31 - +91 92059 79486: yup
+15/01/2023, 21:31 - +91 92059 79486: Mail them with important reason (jhuta reason🤣)
+15/01/2023, 21:31 - +91 88478 94318: Send them a mail, regarding your completion with a ss
+15/01/2023, 21:31 - +91 95959 59773: Is it mandatory to post on LinkedIn
+15/01/2023, 21:31 - +91 88478 94318: include this also
+15/01/2023, 21:32 - +91 88478 94318: your project
+15/01/2023, 21:32 - +91 95959 59773: 😂
+15/01/2023, 21:33 - +91 95959 59773: Can you share mail id?
+15/01/2023, 21:37 - +91 88478 94318: krish.naik@ineuron.ai,
+sudhanshu@ineuron.ai,
+Sunny Savita <sunny.savita@ineuron.ai,
+15/01/2023, 21:37 - +91 88478 94318: contact@ineuron.ai
+15/01/2023, 21:38 - +91 95959 59773: thanks
+15/01/2023, 23:14 - +91 98368 99312: https://www.linkedin.com/posts/ruptosh_probability-activity-7020445046348939264-Zm8c?utm_source=share&utm_medium=member_desktop
+15/01/2023, 23:14 - +91 98368 99312: please like and share
+16/01/2023, 17:03 - +91 6280 963 446: https://youtu.be/rUtxuOP4DXo
+16/01/2023, 17:04 - +91 6280 963 446: Day 2 live now
+17/01/2023, 22:44 - +91 99440 94955: https://datalemur.com?referralCode=qprc4wqS
+18/01/2023, 11:26 - +91 6280 963 446: https://www.instagram.com/p/Cni6ZD_KRTi/?igshid=YmMyMTA2M2Y=
+18/01/2023, 17:10 - +91 6280 963 446: https://youtu.be/TUpdpRzcMx8
+18/01/2023, 17:10 - +91 6280 963 446: Day 3 live now
+18/01/2023, 19:58 - +91 92059 79486: https://youtu.be/H99JRtDDnvk
+18/01/2023, 20:00 - +91 92059 79486: Look at his explanation and Sunny's explanation for PCA. After paying also we didn't get his lecture in the course for PCA.  Sunny is good but Krish is the best. We have paid to learn from Krish not from others
+18/01/2023, 20:05 - +91 99875 64492: Exactly but now nothing can happen......
+18/01/2023, 20:32 - +91 88478 94318: irony is, it is open source 🥴
+18/01/2023, 20:32 - +91 92059 79486: Ha that is different. I was just going through his lecture and feel like I should share my feelings here😂
+18/01/2023, 20:33 - +91 92059 79486: Yup
+18/01/2023, 20:34 - +91 98250 15084: This happens when teachers try to become businessman..
+18/01/2023, 20:34 - +91 88478 94318: ekdm sahi kiya bro, feelings chupa k nhi rakhna chahiye 😂
+18/01/2023, 20:34 - +91 90909 52427: <Media omitted>
+18/01/2023, 20:37 - +91 92059 79486: 💯
+18/01/2023, 20:37 - +91 92059 79486: 😂😂😂
+18/01/2023, 20:44 - +91 92059 79486: This error is related to version. Stats models mai se file move hua ho gya h. Either use the same statmodels version or else change the syntax little bite
+18/01/2023, 20:44 - +91 92059 79486: But*
+18/01/2023, 20:44 - +91 92059 79486: Bit*
+18/01/2023, 20:51 - +91 98250 15084: <Media omitted>
+18/01/2023, 20:51 - +91 98250 15084: Ya fir se sunny ko hi agay kar denge.. deep learning mai bhi.
+18/01/2023, 20:59 - +91 99440 94955: https://datalemur.com?referralCode=qprc4wqS
+18/01/2023, 21:00 - +91 88478 94318: <Media omitted>
+18/01/2023, 21:22 - +91 95952 53520: Ha bhai... Aab definitely sunny sir will take class
+18/01/2023, 22:05 - +91 77809 92150: After deployment of project  do have to terminate that ec2 machine
+18/01/2023, 22:05 - +91 77809 92150: ?
+18/01/2023, 22:07 - +91 77809 92150: <Media omitted>
+18/01/2023, 22:14 - +91 90909 52427: I am getting same kind of mail
+18/01/2023, 22:15 - +91 77809 92150: So do we need to terminate that machine?
+18/01/2023, 22:18 - +91 92059 79486: Yes, please stop the instances. otherwise they will charge
+18/01/2023, 22:19 - +91 77809 92150: Stop or terminate
+18/01/2023, 22:19 - +91 92059 79486: Stop
+18/01/2023, 22:19 - +91 77809 92150: Ok
+18/01/2023, 22:19 - +91 77809 92150: Thanks
+18/01/2023, 22:30 - +91 90909 52427: How to stop
+18/01/2023, 22:31 - +91 77809 92150: <Media omitted>
+18/01/2023, 22:32 - +91 88478 94318: it is already in stopped state
+18/01/2023, 22:32 - +91 88478 94318: no need to do anything
+18/01/2023, 22:35 - +91 90909 52427: Ok
+18/01/2023, 23:13 - +91 99875 64492: Gaya deep learning bhi fir😂😂
+18/01/2023, 23:14 - +91 77809 92150: 😂
+18/01/2023, 23:15 - +91 95952 53520: Aab aage se sab yaisa hi hone wala hai
+18/01/2023, 23:15 - +91 84119 11153: No
+18/01/2023, 23:17 - +91 79855 54980: Alak Pandey will take the rest of the class 😄😄
+18/01/2023, 23:17 - +91 84119 11153: Usko loding nahi aata re baba 😂
+18/01/2023, 23:17 - +91 84119 11153: Coding*
+18/01/2023, 23:18 - +91 95952 53520: Phir😂😂🤣🤣
+18/01/2023, 23:18 - +91 95952 53520: UPSC kare kya
+18/01/2023, 23:18 - +91 79855 54980: Ab ye physics Walla ban gaya ta .. ab yaha kuch bi ho sakta hai 🤣🤣
+18/01/2023, 23:20 - +91 99675 57017: Guyz kisiko machine learning module ke baad job mila kya ineuron se ???
+18/01/2023, 23:22 - +91 79855 54980: Yes..
+18/01/2023, 23:23 - +91 93903 94878: Terminate it. If you stop it, The data which has in EC2 starts billing.
+18/01/2023, 23:23 - +91 99675 57017: Ohk
+18/01/2023, 23:23 - +91 77809 92150: Ok
+18/01/2023, 23:24 - +91 88478 94318: package?
+18/01/2023, 23:24 - +91 88478 94318: fresher or exp
+19/01/2023, 16:16 - +91 90042 57538: <Media omitted>
+20/01/2023, 17:04 - +91 6280 963 446: https://youtu.be/lJp5OkcuHs8
+20/01/2023, 17:04 - +91 6280 963 446: Part 4 live now
+20/01/2023, 19:25 - Tarun Rao: Has sir taught nlp in machine learning ?
+21/01/2023, 11:31 - +91 79755 70668: Hi All, if Krish is not taking the class, and Sunny is going to take class then we should tell Sunny to revise any topic. Otherwise we are not oppose then DL will taken by Sunny itself.
+21/01/2023, 11:32 - +91 79755 70668: I am not telling Sunny is bad but Krish is Super
+21/01/2023, 11:32 - +91 79755 70668: We can make the difference PCA taught by Sunny and Krish
+21/01/2023, 11:33 - +91 79755 70668: Plz let us know others view
+21/01/2023, 11:37 - +91 98217 15290: I agree with you
+21/01/2023, 11:37 - +91 98217 15290: Will ask sunny to revise previous topic
+21/01/2023, 11:37 - +91 79855 54980: They will do as per there plan
+21/01/2023, 11:38 - +91 98217 15290: Sunny said deep learning classes will be taken by krish sir only
+21/01/2023, 11:38 - +91 79755 70668: But we can try.
+21/01/2023, 11:38 - +91 79855 54980: Yed
+21/01/2023, 11:38 - +91 79855 54980: Yes
+21/01/2023, 11:40 - +91 95952 53520: Today Sunny sir will take practical implementation
+21/01/2023, 12:40 - +91 98111 07575: pls confirm anyone able to login Internship portal to submit project ??
+
+seems to be no longer available
+21/01/2023, 12:51 - +91 98610 45001: Not logging in at all. Just checked
+21/01/2023, 12:59 - +91 98111 07575: looks like it got disabled or under maintenance
+21/01/2023, 13:58 - +91 88478 94318: yes
+21/01/2023, 13:58 - +91 88478 94318: it is working fine
+21/01/2023, 14:26 - +44 7831 624309: Personally speaking  it is their strategy to put Krish as the face and use Sunny or other junior members to run the lessons.....if you have noticed that when a complain was raised we see Krish showing up......i believe they have other courses running in parallel where Krish's presence is a must...now with PW also under their belt........I remember him answer the question like we have to give opportunity for Sunny to also grow.....I think that should be his problem not ours...(no grudge against Sunny, he's good but not as good as Krish is).......
+Plus they also know that we are their strength too...and they are using us to give publicity via LinkedIn (is mutual as well but the immediate benefit is for them)......
+Unless we all speak in unison we won't see any change that is for sure...else we should come to a mutual understanding with them on moving forward....
+
+These were my thoughts going from long...I haven't commented on this topic yet....
+
+Plus we must all have one this into our heads that is a business (a profit making business) and not a charity!!
+21/01/2023, 14:30 - +44 7831 624309: *Plus we must all have one thing into our heads that iNeuron/PW is a profit making business model and not a charity organisation
+21/01/2023, 14:32 - +44 7831 624309: I really got annoyed how Avnish got the lessons done...till then I was ok with Sunny's lessons too....and we will see more of different people too
+21/01/2023, 14:35 - +91 86178 08574: I have kind of just given up expecting any quality from ineuron whatsoever, I'm just using this course to get the topics that need to be covered and then preparing by self using free resources and books available...Extensive self evaluation projects and tests should have been taken in this course, but they have rarely taken any, they just say vaguely to complete the tasks and submit assignments which I did not expect.
+21/01/2023, 14:36 - +44 7831 624309: I'm kind of doing the same too...
+21/01/2023, 14:37 - +91 86178 08574: Also since most of us are working its been very annoying to attend these long classes and not getting good takeaways
+21/01/2023, 14:39 - +91 98250 15084: After these long classes also.. 
+We have to refer from youtube or some other free source..
+21/01/2023, 14:39 - +91 98250 15084: Whatever is taught by sunny in 4 hr.. is explained in 30min video of youtube..
+21/01/2023, 14:39 - +91 92059 79486: This is more annoying. We get off on weekends only and not getting good takeaways since 2 months.  There is lots of difference between Sunny and Krish. Sunny doesn't know many concepts. He got stucked in the eigen values and eigen vector. I think we don't want these kind of teaching. We have paid for Krish and Sudhanshu
+21/01/2023, 14:40 - +91 92059 79486: Exactly
+21/01/2023, 14:40 - +91 92059 79486: Sunny stretch the session. What is the use of teaching pipeline in every class
+21/01/2023, 14:41 - +91 86178 08574: Honestly sunny is not to be blamed here.. He's still learning and surely he has been asked by the ineuron team to take the classes, in krishs absence (and the other sunny that left)
+21/01/2023, 14:41 - +91 98250 15084: Ya.. sunny cannot be blamed.. 
+Bt what is our fault in all this..
+21/01/2023, 14:42 - +91 98250 15084: Forget about the money.. 
+Ineuron is wasting our precious time ..
+21/01/2023, 14:42 - +91 92059 79486: No one is blaming Sunny. We are just saying the difference. I want Krish and Sudhanshu not Sunny. I think we also want the same
+21/01/2023, 14:43 - +91 92059 79486: Obviously
+21/01/2023, 14:43 - +91 98250 15084: Hmm
+21/01/2023, 14:45 - +91 98250 15084: I m have spend my 3 days in learning PCA.. 
+1st attended 4 hr lecture of sunny.. 
+Then watch 2 hrs. old recording of sudhanshu.. 
+
+And ultimately.. learn it from krish naik youtube channel.. 
+Spending again 3 hrs
+21/01/2023, 14:45 - +91 86178 08574: well once I'm done preparing myself, which is obviously going to take more time... I'll be leaving a detailed review on how the promises were made and how they were implemented.... Right now we just need to focus on learning and upsklling rather than wasting time...I had been following krish since a long time which made me enroll into this without any second thoughts
+21/01/2023, 14:47 - +91 92059 79486: We will definitely learn in any way.
+21/01/2023, 14:51 - +91 86178 08574: Watch couple of videos by 3blues1brown on matrix transformation and eingenvalue/eigenvector...that channel is a gem
+21/01/2023, 14:52 - +91 98610 45001: Apart from 3,4 hour long lectures which is well covered in YouTube videos in 30 minutes I was really waiting for projects. But i am disappointed as we can't grasp everything in single live class video so we have to go through the recording video. But it is lagging. We should demand for another 2,3 projects in ML and that too from krish sir
+21/01/2023, 14:58 - +91 99875 64492: That's what I was saying when I raised this issue when sunny started taking classes, but some people started opposing saying Sunny teaches well......but that's not the point, we have paid to learn from Krish and we have right to raise voice🙌🏻...
+21/01/2023, 14:58 - +91 92059 79486: I do
+21/01/2023, 15:00 - +91 95952 53520: Everyone paid for Krish sir & sudhanshu sir
+21/01/2023, 15:00 - +91 98610 45001: Guys let us send email to krish and sudhanshu to teach atleast 2 more projects and that too from krish by sending email to
+
+krish.naik@ineuron.ai,
+sudhanshu@ineuron.ai,
+21/01/2023, 15:01 - +44 7831 624309: That's their Marketing Strategy, Guys and we all fell for it!
+21/01/2023, 15:01 - +91 95952 53520: Agreed
+21/01/2023, 15:02 - +44 7831 624309: Someone mentioned about Sunny Bhavan Chandra who left iNeuron and has started his pay channel for consultation   everyone does it for Money....and we too are doing it for the same....
+21/01/2023, 15:03 - +44 7831 624309: Their business model is more people less fee equals more profit
+21/01/2023, 15:05 - +44 7831 624309: We can try complaining but don't think anything will happen Krish will come up with his standard motivational speech and we all end up doing it all ourselves......
+21/01/2023, 15:05 - +91 98610 45001: Guys I am being honest that I don't have any issue about who teaches us as there are enough study material available on internet for making notes and preparing for interview. But my concern is for industry standard projects based on which interviewer will judge us. So they should teach us another 2,3 industry standard projects
+21/01/2023, 15:06 - +91 88478 94318: +1
+21/01/2023, 15:09 - +91 92059 79486: This is not possible. They even can't provide a proper notes where all the steps should e written. And you think they will teach again
+21/01/2023, 15:10 - +91 98250 15084: Lets see what happen in today's lecture
+21/01/2023, 15:11 - +91 90909 52427: Same here i also took 4 days
+21/01/2023, 15:16 - +91 90909 52427: Right 
+Avnish could have shared a PDF covering all the steps sequentially so that any one can refer and understand. But he didn't even share the whiteboard Notes in Resource properly
+21/01/2023, 15:16 - +91 92059 79486: Even I have mailed them asked them in the doubt session a well
+21/01/2023, 15:17 - +91 98250 15084: There doubt clearance team is of no use..
+21/01/2023, 15:17 - +91 98250 15084: Till date.. 
+They have not solved any of my doubts.
+21/01/2023, 15:17 - +91 92059 79486: correct
+21/01/2023, 15:18 - +91 90909 52427: Krish sir has said in 1 of the class that the amount/ quality of course material you are getting is more than enough wrt course fees paid. 17000/-
+21/01/2023, 15:18 - +91 90909 52427: They tell to refer the recorded clips 😅
+21/01/2023, 15:20 - +91 90909 52427: In those 5 hrs session. He writes some code in 1 file then suddenly goes to previous page to edit some variables. Too confusing to decode their coding strategy
+21/01/2023, 15:20 - +91 90909 52427: It felt like Avnish was revising his coding skills in live lectute
+21/01/2023, 15:22 - +91 98250 15084: Hmm today also..
+I have asked many questions.. 
+He has not given answer for any..
+21/01/2023, 15:34 - +91 90909 52427: Chat support was good Initially
+21/01/2023, 15:38 - +91 6280 963 446: Guys, just reading your all messages regarding projects
+21/01/2023, 15:39 - +91 6280 963 446: Can you guys, please tell me some feedback so that I can upload more projects: https://youtu.be/uk2zMF6PA2I
+21/01/2023, 15:41 - +91 90909 52427: I saw a video on your channel of ML.
+You were quite writing all codes with proper explaination and clarity. 🙏🏻 Thanks
+21/01/2023, 15:46 - +91 98610 45001: Your industry ready project playlist regarding insurance price is really good. It will be helpful if you add more such project playlist.
+21/01/2023, 15:49 - +91 98610 45001: And it will be helpful if u provide little more explanation while coding the ingestion, validation etc pipelines
+21/01/2023, 15:54 - +91 6280 963 446: Sure
+21/01/2023, 16:03 - +91 82962 26281: Chutia hai sala ... Bhag raha hai
+21/01/2023, 16:21 - +91 81785 68253: Is today's session going well?
+21/01/2023, 16:30 - +91 99875 64492: 170 *10 = 1710 nyc
+21/01/2023, 16:31 - +91 70206 63067: 🤣
+21/01/2023, 16:42 - +91 81785 68253: Gotcha 🤣
+21/01/2023, 16:44 - +91 82962 26281: This message was deleted
+21/01/2023, 16:51 - +91 82962 26281: This message was deleted
+21/01/2023, 16:52 - +91 82962 26281: This message was deleted
+21/01/2023, 17:10 - +91 79755 70668: For that I am messaging him but no reply
+21/01/2023, 17:11 - +91 99875 64492: Actually it is 170 input later * 10+1(bias) = 170*11= 1710
+21/01/2023, 17:13 - +91 81785 68253: If our linear regression model not over fitting, is there any need of Ridge/Lasso regression?
+21/01/2023, 17:13 - +91 79755 70668: 170*11=1870
+21/01/2023, 17:15 - +91 99875 64492: Ooh yes , it is 171 *10 assuming, but how 171, there should be no bias in input layer ryt
+21/01/2023, 17:17 - +91 79755 70668: WHT I am guessing 170*10 input&HL1, Then adding HL2
+21/01/2023, 17:17 - +91 79755 70668: 1700+10
+21/01/2023, 17:17 - +91 99875 64492: This seems to be logical
+21/01/2023, 17:18 - +91 99875 64492: But multiplication by 10 are neurons from hidden layer ryt
+21/01/2023, 17:44 - +91 79755 70668: If anyone is there in the doubt clearing sessions plz ask this to Sunny
+21/01/2023, 18:06 - +91 99875 64492: full rada 😂😂
+21/01/2023, 18:07 - +91 84119 11153: 😂
+21/01/2023, 19:24 - +91 99875 64492: asked, unable to explain properly
+21/01/2023, 19:27 - +91 79755 70668: 😅😆
+21/01/2023, 19:28 - +91 79755 70668: Expected,  that is why Krish is best
+21/01/2023, 19:34 - +91 90218 58584: Hi guys, l am from may 2022 but actually behind in classes and attending sep 22 live lectures 
+Hearing your reviews 
+Would it be better to watch old recorded videos and follow Krish sir's playlist?
+21/01/2023, 19:35 - +91 90909 52427: In every class, he repeats the ML Pipeline & Course to be covered in future.
+21/01/2023, 19:35 - +91 90909 52427: In recorded too i saw sunny
+21/01/2023, 19:36 - +91 90218 58584: Oh
+21/01/2023, 19:36 - +91 90909 52427: Now i am thinking of taking DS course of simplilearn
+21/01/2023, 19:37 - +91 90218 58584: In sep batch there are 3-4 people from simplilearn
+21/01/2023, 19:37 - +91 90909 52427: They joined to get better content here?
+21/01/2023, 19:38 - +91 79755 70668: You can look into iit delhi and Kanpur
+21/01/2023, 19:38 - +91 90218 58584: IlT Madras has youtube channel for DS na
+21/01/2023, 19:40 - +91 99875 64492: Self study is always best.... enough content on YouTube 🙌🏻
+21/01/2023, 19:41 - +91 90218 58584: Machine learning, stats, math, python, DBMS playlists are available on youtube
+21/01/2023, 19:43 - +91 88771 54964: It contains two courses programming and data science
+21/01/2023, 19:44 - +91 88771 54964: Foundation level as well
+21/01/2023, 19:45 - +91 88771 54964: Anyone from iitmadras data sci programming??
+21/01/2023, 19:45 - +91 90909 52427: Please suggest content for Deployment ? & free doployment platform
+21/01/2023, 19:53 - +91 99875 64492: <Media omitted>
+21/01/2023, 19:53 - +91 99875 64492: https://towardsdatascience.com/number-of-parameters-in-a-feed-forward-neural-network-4e4e33a53655
+21/01/2023, 20:00 - +91 70206 63067: Bro it's a degree ४ year
+21/01/2023, 20:01 - +91 88771 54964: It is flexible and one can do a diploma degree for 3 or 4 years
+21/01/2023, 20:02 - +91 70206 63067: If some is graduated can't afford to put more 2-3 years na
+21/01/2023, 20:02 - +91 70206 63067: It is not easy one it asks for 40hrs a week time to put in
+21/01/2023, 20:02 - +91 88771 54964: Yeah
+21/01/2023, 20:32 - +91 90218 58584: This message was deleted
+21/01/2023, 20:36 - +91 90218 58584: Yes
+21/01/2023, 21:38 - +91 98610 45001: My iNeuron account is not logging in. Anyone else facing same issue?
+21/01/2023, 21:40 - +91 96404 90672: This message was deleted
+21/01/2023, 21:40 - +91 96404 90672: Yes
+21/01/2023, 21:41 - +91 98111 07575: Not able to login too..
+21/01/2023, 21:49 - +91 70585 22205: Yaa same issue
+21/01/2023, 21:49 - +91 82962 26281: Same here
+21/01/2023, 21:50 - +91 90909 52427: Maintenance
+21/01/2023, 22:21 - +91 92059 79486: Hey guys
+How to create pipeline for countvectorization and TFiDF at once
+21/01/2023, 22:22 - +91 92059 79486: <Media omitted>
+21/01/2023, 22:32 - +91 90218 58584: <Media omitted>
+21/01/2023, 22:39 - +91 70206 63067: Bro it takes more than 4+years to complete
+21/01/2023, 22:39 - +91 70206 63067: If you're in your bachelors
+21/01/2023, 22:39 - +91 70206 63067: Will be good to go
+21/01/2023, 22:39 - +91 90218 58584: I know
+21/01/2023, 22:39 - +91 90218 58584: Thats why l will complete FSDS course first then get a job 
+Then l might pursue this
+21/01/2023, 22:40 - +91 70206 63067: Will be great
+21/01/2023, 22:40 - +91 90218 58584: Fees are also around 3 lakhs
+21/01/2023, 22:40 - +91 70206 63067: Exactly
+21/01/2023, 22:40 - +91 90218 58584: So not affordable right now
+21/01/2023, 22:52 - +91 90042 57538: You have to clear the entrance exam first
+21/01/2023, 23:09 - +91 95952 53520: Facing same issue
+22/01/2023, 00:10 - +91 90218 58584: Yes qualifier exam
+22/01/2023, 00:21 - +91 90042 57538: I fail 🤣🤣
+22/01/2023, 00:29 - +91 90218 58584: Really?
+22/01/2023, 00:32 - +91 90042 57538: Yes
+22/01/2023, 00:40 - +91 90218 58584: Haha okay
+22/01/2023, 16:36 - +91 96232 26723 joined using this group's invite link
+22/01/2023, 18:08 - +91 98368 99312: https://www.linkedin.com/posts/ruptosh_scikit-learn-activity-7022904489842003968-lu62?utm_source=share&utm_medium=member_desktop
+22/01/2023, 18:08 - +91 98368 99312: please like and share 🙏🏻
+22/01/2023, 18:31 - +91 6280 963 446: https://www.instagram.com/p/Cnt-SNnM5X4/?igshid=YmMyMTA2M2Y=
+22/01/2023, 23:50 - +91 90218 58584: Checkout skillslash
+22/01/2023, 23:52 - +91 90218 58584: <Media omitted>
+23/01/2023, 00:02 - +91 90909 52427: <Media omitted>
+23/01/2023, 00:02 - +91 90909 52427: Skillash 1.1 lakh
+23/01/2023, 00:03 - +91 90218 58584: No it's saying 59000
+23/01/2023, 00:03 - +91 90218 58584: Where did you see 1 lakh?
+23/01/2023, 00:03 - +91 90218 58584: Oh in pro Max
+23/01/2023, 00:05 - +91 90909 52427: <Media omitted>
+23/01/2023, 00:05 - +91 90909 52427: Yes
+23/01/2023, 00:16 - +91 90218 58584: This message was deleted
+23/01/2023, 11:12 - +91 6280 963 446: https://www.instagram.com/p/CnvwucnKYO7/?igshid=YmMyMTA2M2Y=
+23/01/2023, 11:24 - +91 81785 68253: I honestly don't think this course is worth enrolling for. If you look closely at their curriculum you will realise they are not covering topics in depth. Take, for example, statistics.
+23/01/2023, 12:05 - +91 90218 58584: I realised it's not good cause l looked for people who enrolled in this course on LinkedIn. Found very few.
+23/01/2023, 12:12 - +91 81785 68253: Having least people enrolled in this course isn't really a red flag. The curriculum seems quite vague, doesn't have much topics to cover.
+
+Plus, course fee is unreasonably high. Not sure if that industry experience will be delivered by an industry expert or what
+23/01/2023, 12:14 - +91 81785 68253: Has anybody filled the live session survey form?
+23/01/2023, 12:19 - +91 98368 99312: Yes
+23/01/2023, 12:26 - +91 81785 68253: How much ratings did you give? I'm thinking of giving lower ratings and subsequently drop an email to the team related to sessions being delivered by sunn
+23/01/2023, 12:26 - +91 81785 68253: Sunny
+23/01/2023, 12:31 - +91 98368 99312: 1..bcoz I don't like the pace of the class from last 2 months..I also wrote that "Everyone is not same capable just like all fingers are not same. You need to think for everyone by going slow "
+23/01/2023, 12:32 - +60 11-2419 2738: 👍
+23/01/2023, 12:33 - +91 90218 58584: <Media omitted>
+23/01/2023, 12:34 - +91 90218 58584: When you find that one review 😂
+23/01/2023, 12:36 - +91 90218 58584: This message was deleted
+23/01/2023, 15:26 - +91 89730 57401: Just check iNeuron reviews on same.
+23/01/2023, 15:27 - +91 90218 58584: I have seen them
+23/01/2023, 15:38 - +91 79755 70668: Share the link
+23/01/2023, 17:02 - +91 6280 963 446: https://youtu.be/J6CZ7kTkwdA
+23/01/2023, 17:02 - +91 6280 963 446: Day 5 live now
+23/01/2023, 18:06 - +91 90218 58584: Answer to What is your review of iNeuron's "Full Stack Data Science With 1 Year internship" course? by Kumar https://www.quora.com/What-is-your-review-of-iNeurons-Full-Stack-Data-Science-With-1-Year-internship-course/answer/Kumar-3227?ch=15&oid=367011896&share=cbd9cf08&srid=pnOuq&target_type=answer
+23/01/2023, 18:07 - +91 90218 58584: Answer to What is your review of iNeuron's "Full Stack Data Science With 1 Year internship" course? by TheDirtyMonk https://www.quora.com/What-is-your-review-of-iNeurons-Full-Stack-Data-Science-With-1-Year-internship-course/answer/TheDirtyMonk?ch=15&oid=400931713&share=706ed01e&srid=pnOuq&target_type=answer
+23/01/2023, 18:09 - +91 79855 54980: Correct 💯....
+23/01/2023, 18:10 - +91 79855 54980: Even when u go futher with Paul in computer vision .. he will also be irritated while teaching .. 
+His teaching techniques were not that gud.. what I felt personally ...
+23/01/2023, 18:10 - +91 90218 58584: Answer to What is your review of iNeuron's "Full Stack Data Science With 1 Year internship" course? by Ashutosh Verma https://www.quora.com/What-is-your-review-of-iNeurons-Full-Stack-Data-Science-With-1-Year-internship-course/answer/Ashutosh-Verma-818?ch=15&oid=403699595&share=d53236bb&srid=pnOuq&target_type=answer
+23/01/2023, 18:11 - +91 79855 54980: Correct
+23/01/2023, 18:12 - +91 90218 58584: Follow 3blues1brown and sentdex on youtube for concepts clarification
+23/01/2023, 18:47 - +91 89781 78218: Statquest by Josh stormer for statistics is 👌🏼
+23/01/2023, 19:09 - +91 90042 57538: anything suggestions where I can learn docker, aws all deployment thing?
+23/01/2023, 19:15 - +91 89781 78218: freecodecamp YT
+24/01/2023, 10:56 - +91 95959 59773: https://www.linkedin.com/posts/activity-7023517699620114432-NA13?utm_source=share&utm_medium=member_desktop
+24/01/2023, 11:54 - +91 76088 83617: Is musigma test results got declared ?
+24/01/2023, 12:21 - +91 96859 11215: Gd results?
+24/01/2023, 12:23 - +91 6280 963 446: https://www.instagram.com/p/CnyRPN6qeqR/?igshid=YmMyMTA2M2Y=
+24/01/2023, 12:44 - +91 76088 83617: Written one
+24/01/2023, 12:44 - +91 76088 83617: That happened on Saturday
+24/01/2023, 12:45 - +91 96859 11215: No idea about that one
+24/01/2023, 13:42 - +91 90909 52427: Is someone working on any BI projects from the portal?
+24/01/2023, 13:44 - +91 90909 52427: I started- energy data analysis the problem statement is not what to Utlimately acheive with that dataset. Can someone please guide me?
+24/01/2023, 19:09 - +91 6280 963 446: https://www.instagram.com/p/CnzLL3Ksd77/?igshid=YmMyMTA2M2Y=
+24/01/2023, 22:56 - +91 79755 70668: https://online-er.isb.edu/applied-business-analytics/index.php
+25/01/2023, 20:22 - +91 90218 58584: https://youtu.be/z6ep308goxQ
+25/01/2023, 20:23 - +91 90218 58584: Do check out this video 
+She used machine learning here so you will understand the usecase and how she drew insights from the model
+26/01/2023, 05:10 - +91 70206 63067: https://youtu.be/Q95SIG4g7SA
+26/01/2023, 05:10 - +91 70206 63067: Drop comments
+26/01/2023, 05:11 - +91 70206 63067: Regarding the recent issue going on the group
+Like should teach in fsds as well
+26/01/2023, 06:18 - +91 90218 58584: Done
+26/01/2023, 09:42 - +91 90042 57538: Happy republic day to all 🇮🇳❤️
+26/01/2023, 09:44 - +91 79755 70668: Happy Saraswati puja and Republic day.
+26/01/2023, 10:13 - +91 84119 11153: Happy republic day ☺️
+26/01/2023, 12:44 - +91 97482 63373: happy saraswati puja and republic day 🙂
+26/01/2023, 12:45 - +91 88478 94318: How many Bengalis out there going for a DATE today 😜
+26/01/2023, 12:45 - +91 88478 94318: Happy Saraswati Puja & Republic Day 😃
+26/01/2023, 12:55 - +91 70060 60377: Saraswati puja aur republic day ki shubhkamnaye😊🌸🇮🇳
+26/01/2023, 14:34 - +91 90129 22002: Happy Saraswati Puja and happy republic day 🥳🥳
+26/01/2023, 18:27 - +91 98368 99312: <Media omitted>
+26/01/2023, 19:37 - +91 6280 963 446: **Few hours left**
+*Build Ad Click System using Machine Learning*
+
+►Kaggle Competition Project, Whether ad will get clicked by the user or not.
+►Nowadays' many Industry using CTR ( Click-Through Rate ) to observed the customer.
+►Top Industry wants to know their target customers are interested in particular ad or not. ( Industry like: E-commerce, Advertising Agency, Food Industry )
+►We will solve this problem using Machine Learning.
+
+*Benefits:*
+- You will get complete understanding about In and Out of the problem
+- Completed Approaches to Solve these types of problem.
+- Build complete project in live session
+- Complete code you will get
+- Complete Documentation ( DPR & HLD )
+- Q/A Session
+
+Book your slot here: https://topmate.io/shivan_kumar1/130385
+
+Keeping yourself relevant in the industry
+
+I will be happy to share my experience. You can consider it as one more opinion while deciding. Let’s make it happen together!
+26/01/2023, 20:52 - +91 81785 68253: In the project implementation we used dill module instead of pickle. Whats the reason?
+27/01/2023, 00:15 - +91 90218 58584: This message was deleted
+27/01/2023, 00:16 - +91 90218 58584: <Media omitted>
+27/01/2023, 00:28 - +91 97555 06175: Can anyone suggest something good for power bi
+27/01/2023, 00:28 - +91 97555 06175: I have 4 days only
+27/01/2023, 00:28 - +91 97555 06175: To do tht
+27/01/2023, 00:30 - +91 90218 58584: Do what?
+27/01/2023, 00:30 - +91 88283 82181: Complete power bi study i guess
+27/01/2023, 00:31 - +91 90218 58584: https://www.linkedin.com/feed/update/urn:li:activity:6991343668150333440?utm_source=share&utm_medium=member_android
+27/01/2023, 00:31 - +91 88283 82181: Is it compulsory to submit all the assignments to get the certificate ?
+27/01/2023, 00:32 - +91 90218 58584: More than 40%
+27/01/2023, 00:32 - +91 90218 58584: Power BI
+27/01/2023, 00:33 - +91 88283 82181: Assignments given during lectures or assignments given on the dashboard
+27/01/2023, 00:33 - +91 88283 82181: Because both are different
+27/01/2023, 00:33 - +91 90218 58584: https://www.linkedin.com/feed/update/urn:li:activity:6946739296569577472?utm_source=share&utm_medium=member_android
+27/01/2023, 00:34 - +91 90218 58584: Dashboard 
+But you must have completed lecture assignments too regularly?
+27/01/2023, 00:34 - +91 90218 58584: Power BI interview questions
+27/01/2023, 00:34 - +91 88283 82181: No I haven't
+27/01/2023, 00:35 - +91 90218 58584: https://www.linkedin.com/feed/update/urn:li:activity:6964561108997185536?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6964561108997185536%29
+27/01/2023, 00:35 - +91 90218 58584: Power BI cheatsheet
+27/01/2023, 00:36 - +91 90218 58584: Okay
+27/01/2023, 06:05 - +91 93903 94878: Hi, Everyone can any one suggest the job platforms other than the Naukri,hirist.
+27/01/2023, 06:10 - +44 7831 624309: LinkedIn
+27/01/2023, 06:11 - +91 93903 94878: Daily I keep updated LinkedIn but no use. It gives recommendations for datascientist with 3+ exp.
+27/01/2023, 06:13 - +44 7831 624309: You will have to search and activate an alert with your requirements. Plus you can avail premium membership if offered for  free or buy one!
+27/01/2023, 06:14 - +91 93903 94878: Yes, can you review my profile?
+27/01/2023, 06:15 - +44 7831 624309: Can do, share your profile please
+27/01/2023, 06:15 - +91 93903 94878: https://www.linkedin.com/in/yamanuriprasanth
+27/01/2023, 06:18 - +44 7831 624309: Is good nothing wrong with it that I can see...try search jobs and create alerts for it
+27/01/2023, 06:19 - +91 93903 94878: Ok, thanks
+27/01/2023, 13:24 - +91 90218 58584: Glassdoor
+27/01/2023, 13:30 - +91 93903 94878: Thank you
+27/01/2023, 14:03 - +91 6280 963 446: https://www.instagram.com/p/Cn6XU6nMSYn/?igshid=YmMyMTA2M2Y=
+27/01/2023, 14:42 - +91 90218 58584: Bhaiya didis
+27/01/2023, 17:28 - +91 93903 94878: https://www.linkedin.com/posts/jyoti-aeri-b7631341_businessanalyst-delhi-ncr-activity-7024657066136940544-XGmC?utm_source=share&utm_medium=member_android
+28/01/2023, 01:38 - +91 90218 58584: https://youtu.be/pAYyuPKj6eI
+28/01/2023, 17:23 - +91 98368 99312: https://www.linkedin.com/posts/ruptosh_basic-statistics-part-1-activity-7025067976764653568-GRCE?utm_source=share&utm_medium=member_desktop
+28/01/2023, 19:17 - +92 319 2476541 joined using this group's invite link
+28/01/2023, 19:18 - +92 319 2476541: Hello guys, I joined this group today. Is there someone who is currently studying Machine Learning section of this course?
+28/01/2023, 19:19 - +92 319 2476541: Mujhe concept learning (learning as search) ka topic smjhna hy.
+28/01/2023, 22:25 - +91 92059 79486: When will today's lecture be available in the portal?  Can someone tell me the earliest uploading time
+28/01/2023, 22:44 - +91 88478 94318: by tomorrow 10 am probably
+29/01/2023, 13:46 - +91 76088 83617: Will sir do the practical today or he will teach some concepts  ?
+29/01/2023, 14:50 - +91 92059 79486: <Media omitted>
+29/01/2023, 14:51 - +91 98610 45001: chat.openai.com/chat
+29/01/2023, 14:51 - +91 98610 45001: This is the url for chatgpt. Try using same
+29/01/2023, 14:52 - +91 92059 79486: Thanks
+29/01/2023, 14:52 - +91 92059 79486: It is working
+29/01/2023, 14:52 - +91 98610 45001: 👍
+29/01/2023, 16:14 - +91 6280 963 446: https://www.instagram.com/p/Cn_wRlPMWKx/?igshid=YmMyMTA2M2Y=
+30/01/2023, 06:53 - +91 93903 94878: Data Science - Intern in Hadapsar Pune, India | Eaton
+https://jobs.eaton.com/jobs/137193?lang=en-us
+30/01/2023, 09:49 - +91 90042 57538: https://www.instagram.com/reel/Cn67_u_A0ts/?igshid=NDk5N2NlZjQ=
+30/01/2023, 10:40 - +91 6280 963 446: https://www.instagram.com/p/CoBn68dK7tC/?igshid=YmMyMTA2M2Y=
+31/01/2023, 22:21 - +91 92059 79486: Hey everyone,
+Please endorse my data science related skills if anyone find my post useful.
+
+https://www.linkedin.com/in/subhash-dixit-nit-durgapur
+31/01/2023, 23:19 - +91 90218 58584: Hey your followers really increased since statistic lectures
+31/01/2023, 23:22 - +91 92059 79486: Yes, because after that I started posting content continuously like Krish sir taught us
+31/01/2023, 23:27 - +91 6280 963 446: Guys, connect me here: https://linktr.ee/shivan1
+31/01/2023, 23:28 - +91 88478 94318: Bro, you're also one of the mentors of iNeuron, right?
+31/01/2023, 23:28 - +91 88478 94318: or student?
+31/01/2023, 23:29 - +91 6280 963 446: Ex- Ineuron Mentor
+31/01/2023, 23:44 - +91 70206 63067: Does anyone maintain a personal excel sheet to track the productivity?
+31/01/2023, 23:45 - +91 97168 98919: What made you quit iNeuron
+01/02/2023, 00:07 - +91 81785 68253: Didn't get you exactly
+01/02/2023, 00:09 - +91 70206 63067: To track the learning curve
+To track our productive hours and all.
+01/02/2023, 00:09 - +91 81785 68253: No I'm not doing that. Can you please share the template for the same. That should be really helpful
+01/02/2023, 00:10 - +91 70206 63067: I don't use too..
+But just thought that someone might be using so I can ask the review
+01/02/2023, 00:12 - +91 81785 68253: Alright
+01/02/2023, 00:27 - +91 90218 58584: I have a tracker for Krish Naik playlists
+01/02/2023, 00:34 - +91 81785 68253: Not sure if i need this but can you please share?
+01/02/2023, 00:35 - +91 90218 58584: <Media omitted>
+01/02/2023, 00:36 - +91 81785 68253: Thanks
+01/02/2023, 00:36 - +91 90218 58584: 👍🏼
+01/02/2023, 00:38 - +44 7831 624309: This is awesome!! Thanks for sharing!! Its a very key tool for tracking the progress
+01/02/2023, 00:46 - +91 70206 63067: Thanks for sharing this is really helpful.
+People can use this as a reference to create their own tracker.
+01/02/2023, 00:51 - +91 90218 58584: Absolutely
+01/02/2023, 07:34 - +91 98610 45001: Great
+01/02/2023, 16:55 - +91 76088 83617: *I have doubt*
+Let’s say in your dataset you have a column called country and it has 185 unique categorical values. 
+
+*How do you handle this ?*
+
+My take :
+As we can’t use one hot encoding here. 
+One of the solutions I thought was to divide the country by  continent and then use one hot encoding 
+But the flaw is that, what if this data is important like if we are predicting happiness level although India and Bangladesh are in same continent there happiness level will be different. 
+
+Replace it with country gdp or country population 
+What if these features already exists in the dataset.
+What do you do ?
+01/02/2023, 17:04 - +91 90218 58584: Calculating country's happiness level 🥲
+01/02/2023, 17:09 - +91 76088 83617: ??
+01/02/2023, 17:09 - +91 90218 58584: This message was deleted
+01/02/2023, 17:09 - +91 90218 58584: Sarcasm
+01/02/2023, 17:09 - +91 76088 83617: Yeah I got it
+01/02/2023, 17:10 - +91 76088 83617: Although it was just an example
+01/02/2023, 17:10 - +91 90218 58584: Okay
+01/02/2023, 17:11 - +91 90042 57538: Check what chatgpt says
+01/02/2023, 17:12 - +91 76088 83617: Modern problems requires modern solutions
+01/02/2023, 17:13 - +91 90042 57538: Ab banaya hi hai to use bhi karlo 🤣
+01/02/2023, 17:14 - +91 76088 83617: Sir na features selection techniques padha hai kya ?
+01/02/2023, 17:14 - +91 90218 58584: ChatGPT is at capacity now 
+Dealing with high traffic
+01/02/2023, 17:15 - +91 90218 58584: All our developers trying best to serve you
+01/02/2023, 17:30 - +91 70206 63067: Okayy..once you get your full power or less traffic let us know 
+We want to calculate the country's  happiness!
+01/02/2023, 17:32 - +91 96698 39680: I was also facing the same issue in chatgpt yesterday  than I clear cache and restart 
+
+Now it's working fine
+02/02/2023, 01:52 - +91 90218 58584: https://free-compsci-degree-imc.notion.site/07728a3dc72c4236974a77a638e82a74?v=2937df34da1747a09a3b26ac98f2d095
+02/02/2023, 01:59 - +91 90218 58584: https://free-compsci-degree-imc.notion.site/The-Open-Source-Computer-Science-Degree-b799dc75720c48fcb602e58c0c103155
+02/02/2023, 11:22 - +91 93903 94878: Any one from ap or telangana?
+02/02/2023, 14:04 - +91 6280 963 446: https://www.instagram.com/p/CoJ0VlTs61K/?igshid=YmMyMTA2M2Y=
+02/02/2023, 18:11 - +91 90218 58584: https://www.youtube.com/playlist?list=PL6W8uoQQ2c61X_9e6Net0WdYZidm7zooW
+02/02/2023, 18:11 - +91 90218 58584: Low level design
+02/02/2023, 18:12 - +91 90218 58584: https://www.youtube.com/playlist?list=PL6W8uoQQ2c63W58rpNFDwdrBnq5G3EfT7
+02/02/2023, 18:12 - +91 90218 58584: High level design
+02/02/2023, 18:35 - +91 98610 45001: Much appreciated. Helpful as project is going on
+03/02/2023, 08:39 - Tarun Rao: Has anyone went through  the power bi / tableau section of our course ?
+03/02/2023, 11:17 - +91 96232 26723: Is there anyone from ineuron team ?
+03/02/2023, 12:47 - +91 6280 963 446: https://www.instagram.com/p/CoMQIcrs4WE/?igshid=YmMyMTA2M2Y=
+03/02/2023, 13:36 - +91 98368 99312: https://www.linkedin.com/posts/ruptosh_ge-aviation-data-analysis-activity-7027184997144944640-JVEk?utm_source=share&utm_medium=member_desktop
+03/02/2023, 13:36 - +91 98368 99312: please like and share
+04/02/2023, 15:23 - +91 92059 79486: bakwas padha raha h
+04/02/2023, 15:25 - +91 98217 15290: Krish sir q nhi padha rhe?
+04/02/2023, 15:26 - +91 6280 963 446: mentor kon hai aaj
+04/02/2023, 15:27 - +91 95952 53520: Bappy
+04/02/2023, 15:29 - +91 92059 79486: We are familiar with everything
+04/02/2023, 15:29 - +91 88478 94318: <Media omitted>
+04/02/2023, 15:29 - +91 92059 79486: 🤣
+04/02/2023, 15:29 - +91 95952 53520: DL bhi upper se hi jane wala hai
+04/02/2023, 15:29 - +91 95952 53520: Like ML project
+04/02/2023, 15:30 - +91 88478 94318: what do u expect in 17k course?
+04/02/2023, 15:30 - +91 88478 94318: 😓
+04/02/2023, 15:30 - +91 88478 94318: 🥹
+04/02/2023, 15:30 - +91 95952 53520: Yah bhi barabr hai
+04/02/2023, 15:31 - +91 88478 94318: <Media omitted>
+04/02/2023, 15:31 - +91 88478 94318: me be like 😂
+04/02/2023, 15:32 - +91 95952 53520: 😂🤣🤣🤣
+04/02/2023, 15:32 - +91 84119 11153: 😂😅
+04/02/2023, 15:33 - +91 98610 45001: Avi pw skills 3.5k kar diya
+04/02/2023, 15:33 - +91 70206 63067: Bhai point 17k ka nhi h yr
+04/02/2023, 15:33 - +91 88478 94318: ha shyad live classes nahi hai
+04/02/2023, 15:34 - +91 70206 63067: Everyone is investing time
+04/02/2023, 15:34 - +91 88478 94318: ekjakly
+04/02/2023, 15:34 - +91 88478 94318: time is money
+04/02/2023, 15:34 - +91 88478 94318: everyone knows,
+04/02/2023, 15:34 - +91 98610 45001: And only 2 yrs dashboard access. Nt lifetime
+04/02/2023, 15:34 - +91 88478 94318: right
+04/02/2023, 15:35 - +91 95959 59773: We got international faculty 😅😂
+04/02/2023, 15:35 - +91 98610 45001: From iNeuron we have got lifetime dashboard access. Is the same valid after pw skills acquisition?
+04/02/2023, 15:36 - +91 88478 94318: sare exp krne k liye apna hi batch mila tha😓
+04/02/2023, 15:36 - +91 98610 45001: Epic 🤣
+04/02/2023, 15:36 - +91 95952 53520: Bhai Lifetime access ka kya krna hai....
+04/02/2023, 15:37 - +91 95952 53520: Videos jo aab padha rahe hai wahi milenge
+04/02/2023, 15:38 - +91 92059 79486: Krish's sir Deep Learning playlist is better than this live classes
+04/02/2023, 15:38 - +91 98610 45001: We can get internship experience certificate for every project we do as well as hands on study materials. In YouTube same is not available. Only python tutorials available
+04/02/2023, 15:39 - +91 97482 63373: 100% true
+04/02/2023, 15:40 - +91 98610 45001: Also access to neuro lab
+04/02/2023, 15:41 - +91 88478 94318: pwlab de rha hai shyd
+04/02/2023, 15:41 - +91 95952 53520: Ha sam
+04/02/2023, 15:41 - +91 95952 53520: Same
+04/02/2023, 15:41 - +91 95952 53520: De raha hai
+04/02/2023, 15:41 - +91 98610 45001: Only those who are enrolled after acquisition and only for 2 years I think
+04/02/2023, 15:42 - +91 90218 58584: Humko toh lifetime access hai na
+04/02/2023, 15:42 - +91 90218 58584: We enrolled before acquisition
+04/02/2023, 15:42 - +91 88478 94318: <Media omitted>
+04/02/2023, 15:42 - +91 98610 45001: That is what i want the clarification about
+04/02/2023, 15:42 - +91 98610 45001: .
+04/02/2023, 15:43 - +91 70206 63067: Lifetime in the sense jb tk ineuron h tb tk
+04/02/2023, 15:43 - +91 70206 63067: Kal bnd ho gyi to 
+Fir 
+Khatam🤣
+04/02/2023, 15:43 - +91 70206 63067: Hai na bro
+04/02/2023, 15:44 - +91 98610 45001: Most probably that is the only good part of this course
+04/02/2023, 15:44 - +91 95952 53520: Phir.... TATA... BYE BYE😂😂🤣
+04/02/2023, 15:45 - +91 70206 63067: Bnd to hogi nhi.. don't worry
+Un log ke paas bhot investment h aur kma bhi rhe hai..
+No need to worry apne bachhe bhi istmal krenge iska🤣
+04/02/2023, 15:46 - +91 70206 63067: Guys is there any project for PowerBI in the dashboard?
+04/02/2023, 15:47 - +91 70206 63067: Which will count in the internship!
+04/02/2023, 15:48 - +91 90218 58584: <Media omitted>
+04/02/2023, 15:48 - +91 70206 63067: Apurva 🤣
+Group ki garima bnaye rkhiye😜
+04/02/2023, 15:49 - +91 88478 94318: garima hi toh chorke chali gyi 😂😂
+04/02/2023, 15:49 - +91 70206 63067: Chalo fir bhaithe h aaj🍺😂
+04/02/2023, 15:50 - +91 88478 94318: <Media omitted>
+04/02/2023, 15:56 - +91 98217 15290: kisi ko kuch smjh aa rha h??
+04/02/2023, 15:57 - +91 95959 59773: Mere ko to bounce ho raha
+04/02/2023, 15:57 - +91 70206 63067: Chat spam krdo yr
+04/02/2023, 15:57 - +91 95959 59773: Ye to Avnish ka bhai hai
+04/02/2023, 15:57 - +91 88478 94318: bada*
+04/02/2023, 15:59 - +91 81785 68253: Tum log live classes le rhe ho?
+04/02/2023, 15:59 - +91 88478 94318: ha
+04/02/2023, 15:59 - +91 88478 94318: tum nahi kr rha hai na
+04/02/2023, 16:00 - +91 88478 94318: tum miss kro
+04/02/2023, 16:00 - +91 88478 94318: 😂
+04/02/2023, 16:00 - +91 81785 68253: Attend karke b konsa fayda ho rha h 🙆🏻‍♂️
+04/02/2023, 16:01 - +91 88478 94318: itna sach bolne kaun bola
+04/02/2023, 16:01 - +91 88478 94318: <Media omitted>
+04/02/2023, 16:01 - +91 81785 68253: Simply message drop kardo chat me ki kuch smjh ni aa rha h or class leave kardo. Wo log smjh jaege mamla kitna serious h
+04/02/2023, 16:02 - +91 88478 94318: yes yeh kr skte hai
+04/02/2023, 16:02 - +91 84119 11153: Live krto class msg karke right
+04/02/2023, 16:02 - +91 81785 68253: Class end kardo, msg drop karke. That's it
+04/02/2023, 16:02 - +91 84119 11153: Leave*
+04/02/2023, 16:03 - +91 81785 68253: Qki agar iske bad b concern ko address ni kara, to unko pta h ki LinkedIn pe post jane lagegi or negative word of mouth hoga
+04/02/2023, 16:03 - +91 81785 68253: Note:- "Kuch b kar, LinkedIn pe daal" iNeuron se hi sikha h humne
+04/02/2023, 16:05 - +91 95959 59773: <Media omitted>
+04/02/2023, 16:05 - +91 70206 63067: Copy paste maro
+04/02/2023, 16:05 - +91 81785 68253: Iske bad ya to session end karo, ya bta kar end kardo. Message will be conveyed
+04/02/2023, 16:06 - +91 81785 68253: Copy paste mat karo, warna Aniket par bat aa jaegi
+04/02/2023, 16:06 - +91 70206 63067: Hmm
+04/02/2023, 16:08 - +91 98610 45001: What is the name of the tutor?
+04/02/2023, 16:10 - +91 84119 11153: Bappy
+04/02/2023, 16:10 - +91 98610 45001: Every week new tutor 🤦‍♂️
+04/02/2023, 16:10 - +91 98610 45001: Sab padhayenge bas Krish sir ko chhod k
+04/02/2023, 16:40 - +91 92059 79486: Their concepts are not good. Basic calculation bhi they are making complex
+04/02/2023, 16:49 - +91 81785 68253: Even Bappy too?
+04/02/2023, 16:50 - +91 92059 79486: ha
+04/02/2023, 16:51 - +91 81785 68253: Ive joined the class and in the end I'll be sharing my feedback with them followed by a few questions about the quality of the content
+04/02/2023, 16:52 - +91 92059 79486: kuch hota nahi h complain krne se...Agar unko krna rehta toh aaj yeh ____ ko padhanae nhibhejta
+04/02/2023, 16:52 - +91 81785 68253: Fir b, mujhe to bolna hoga hi. After all bad me koi regret ni rehna chahiye
+04/02/2023, 16:58 - +91 72610 58757: India me teacher ki kami hai kya jo ineuron Wale Bangladesh ka teacher rkhe hue hai
+04/02/2023, 17:03 - +91 92059 79486: hum kr chuke h yeh sab toh I don't have any regret
+04/02/2023, 17:06 - +91 81785 68253: Doubt clearing ke time par ye bat boli thi?
+04/02/2023, 17:11 - +91 92059 79486: mera aajtak 1 doubt hi yeh log slove nhi kar paya....Except Krish yeh log ko padhneka jarurat h teaching chorke
+04/02/2023, 17:12 - +91 90218 58584: In chat support only Wasim have solved my doubts
+04/02/2023, 17:12 - +91 81785 68253: At least ye bat clearly bolni chahiye. Aaj sab boldo, mai to clearly bolne wala hu aaj
+04/02/2023, 17:13 - +91 90218 58584: Sab milke bolo ek ke baad ek
+04/02/2023, 17:13 - +91 81785 68253: The message I wanna convey is " I'm not happy with the services anymore."
+04/02/2023, 17:13 - +91 81785 68253: +1
+04/02/2023, 17:13 - +91 92059 79486: Bhai yeh bolne ke liye tumko aur 2 hrs wait krna hoga..Doubt session nhi woh wait session hota h
+04/02/2023, 17:14 - +91 81785 68253: Ek bar to try kar skta hu. Aaj Tak maine live class me ni bola, sab kuch email par hi tha. Aaj samne se bol kar try kar leta hu
+04/02/2023, 17:15 - +91 90218 58584: 🥴 bahut bade bade sapne dikhate hai class join karne ke time pe
+04/02/2023, 17:16 - +91 81785 68253: That's part of a marketing plan. It happens but we should convey our message once and for all
+04/02/2023, 17:19 - +91 82962 26281: Any one knows how to download video from ineuron
+04/02/2023, 17:20 - +91 95959 59773: Yesterday I received call from PW skills to join new courses.I ask why you and not iNeuron? He is saying PW skillls better than iNeuron 😂😂😂
+04/02/2023, 17:21 - +91 70206 63067: 🤣
+04/02/2023, 17:21 - +91 95959 59773: Windows G se hota tha but not now
+04/02/2023, 17:21 - +91 84119 11153: 😂😅
+04/02/2023, 17:21 - +91 90218 58584: Screen record kar lo
+04/02/2023, 17:22 - +91 95959 59773: Only voice will get recorded not video
+04/02/2023, 17:22 - +91 82962 26281: Oh..
+04/02/2023, 17:23 - +91 95952 53520: 🤣😂😂
+04/02/2023, 17:29 - +91 81785 68253: Very well
+04/02/2023, 17:29 - +91 84119 11153: Fat gai
+04/02/2023, 17:29 - +91 81785 68253: I'll probably have to chase them tomorrow
+04/02/2023, 18:03 - +91 90218 58584: Mujhe bhi batao kya hua
+04/02/2023, 18:03 - +91 90218 58584: Kaise fat gai
+04/02/2023, 18:07 - +91 90909 52427: Please mail your queries on queries@ineuron.ai
+04/02/2023, 18:10 - +91 6280 963 446: Correct email I'd: query@ineuron.ai
+04/02/2023, 18:10 - +91 90909 52427: 😂
+04/02/2023, 18:11 - +91 90909 52427: Well I never got the correct even wrong solution on this mail id too.😂
+04/02/2023, 18:14 - +91 99875 64492: kya hi fayda lifetime access kaa......dekh hi rhe ho kya mast padha rhe hai😂😂
+04/02/2023, 18:33 - Tarun Rao: does anyone know what does variable_name:str mean ?
+04/02/2023, 18:34 - Tarun Rao: what does :str mean there ?
+04/02/2023, 18:36 - +91 70237 56844: String type variable
+04/02/2023, 18:36 - Tarun Rao: but we do not need to define the variable data type in python right then why :str ?
+04/02/2023, 18:37 - +91 70237 56844: for other programmer to understand
+04/02/2023, 18:38 - Tarun Rao: so not writing that wont have any impact on the program right?
+04/02/2023, 18:39 - +91 70237 56844: right
+04/02/2023, 18:39 - Tarun Rao: thanks bro
+04/02/2023, 18:39 - +91 70237 56844: welcome bro
+04/02/2023, 19:32 - +91 97168 98919: Its not about 17K, its about the commitment they made!!!
+04/02/2023, 20:46 - +91 6280 963 446: Hi folks, please let me know the project you want should be based on ?🤔
+
+https://www.youtube.com/channel/UCU3PwUp0RENg1dLlldjjx3w/community
+
+Thank You
+04/02/2023, 20:47 - +91 98368 99312: https://www.linkedin.com/posts/ruptosh_basic-mathematics-for-data-science-part-1-activity-7027655866082361344-yt1K?utm_source=share&utm_medium=member_desktop
+04/02/2023, 20:47 - +91 98368 99312: please like and share
+04/02/2023, 21:18 - +91 98610 45001: R u Shivan kumar?
+04/02/2023, 21:20 - +91 6280 963 446: Yes
+04/02/2023, 21:20 - +91 98610 45001: Old videos which was uploaded in Youtube and vimeo, you can download them but new video uploaded in aws and they are encrypted. U can't download or screen record. If u download or screen record then video will be total blank
+04/02/2023, 21:22 - +91 98610 45001: Your emd to end industry standard project on insurance price prediction is very helpful. Please make more such complete end to end  projects.
+04/02/2023, 21:22 - +91 6280 963 446: ML, DL or NLP ?
+04/02/2023, 21:23 - +91 98610 45001: For now ML please.
+04/02/2023, 21:24 - +91 6280 963 446: Sure
+04/02/2023, 21:26 - +91 98610 45001: Thank you
+04/02/2023, 21:41 - +91 90042 57538: +1
+04/02/2023, 21:54 - +91 90218 58584: I have access to FSDS 2021
+FSDS May 2022 and FSDS Sep 2022
+04/02/2023, 21:55 - +91 90218 58584: Can I give you problem statement
+04/02/2023, 21:55 - +91 90218 58584: This message was deleted
+04/02/2023, 21:55 - +91 6280 963 446: For?
+04/02/2023, 21:56 - +91 90218 58584: <Media omitted>
+04/02/2023, 21:56 - +91 90218 58584: For project
+04/02/2023, 21:56 - +91 90218 58584: I faced this problem when I was doing trading
+04/02/2023, 22:00 - +91 6280 963 446: You have dataset
+04/02/2023, 22:00 - +91 90218 58584: No
+04/02/2023, 22:01 - +91 92059 79486: These are the problems which can be solved efficiently by the person who has finance related knowledge. I was also trying to make one project on portfolio management but everywhere s&p 500 are there no one has solved this kind of problem from nse
+04/02/2023, 22:04 - +91 90218 58584: Okay
+04/02/2023, 23:02 - +91 70206 63067: We can easily do that...to find least corrected stocks by using simple quants and we can use the API (from any stock broker to implement this)
+I have been using this type of system in 2022. I wanted to make a 100% algo model..but it did not work at that point in time.
+04/02/2023, 23:20 - +91 81785 68253: +1
+05/02/2023, 11:37 - Tarun Rao: I have a doubt if I have __init__.py file in a python file of a folder then while importing the that file will all the functions and variables of the files be available to us ?
+05/02/2023, 12:17 - +91 6280 963 446: https://youtu.be/qsG6qEUdTTM
+05/02/2023, 15:33 - +91 95952 53520: Krish sir taking today's class?
+05/02/2023, 15:33 - +91 98217 15290: No
+05/02/2023, 15:33 - +91 95952 53520: Who?
+05/02/2023, 15:34 - +91 81785 68253: Bappy
+05/02/2023, 15:34 - +91 98217 15290: Boktiar
+05/02/2023, 15:34 - +91 95952 53520: Aaj phir holiday hai 😃😅
+05/02/2023, 15:38 - +91 95952 53520: Why krish sir is not taking class?
+05/02/2023, 15:39 - +91 81785 68253: Can anyone please let me know once the doubt clearing starts? I'll join the session then
+05/02/2023, 15:54 - +91 88478 94318: the other day, there was no doubt clearing
+05/02/2023, 15:56 - +91 92059 79486: Aaj bhi nhi hoga
+05/02/2023, 15:56 - +91 88478 94318: 🤣🤣
+05/02/2023, 15:57 - +91 92059 79486: Wednesday & Friday ko doubt session hoga
+05/02/2023, 15:58 - +91 81785 68253: Mujhe to bol rha h ki class k end me doubts lega mere
+05/02/2023, 15:58 - +91 81785 68253: Dekhte h ab
+05/02/2023, 16:00 - +91 88478 94318: <Media omitted>
+05/02/2023, 16:01 - +91 81785 68253: Bhai rukna hi padega 🙆🏻‍♂️
+05/02/2023, 16:03 - +91 90042 57538: Yes
+05/02/2023, 16:04 - Tarun Rao: so we do not need to explicitly mention __init__ when we call lets say senor.utils.__init__ import blabla
+05/02/2023, 16:05 - +91 81785 68253: No need to import it explicitly
+05/02/2023, 16:06 - Tarun Rao: Okay
+05/02/2023, 16:10 - +91 79755 70668: day by day it is becoming pathetic. Alteast krish should take care of DL.. it simply westing our time.
+05/02/2023, 16:13 - +91 79755 70668: Hi All,  if you all are not happy then we can conpose email to Krish and Shudhansu mentioning all our names since induvisual email are not working, if every one aggre then we can think and try.. Then only they will think of it
+05/02/2023, 16:13 - +91 95952 53520: Yes... Total waste of time
+05/02/2023, 16:15 - +91 92059 79486: <Media omitted>
+05/02/2023, 16:16 - +91 81785 68253: Sending emails individually may work, provided the language should be firm. Choosing the right words definitely works
+05/02/2023, 16:17 - +91 92059 79486: na
+05/02/2023, 16:17 - +91 92059 79486: yoputube, linkedin will work
+05/02/2023, 16:17 - +91 92059 79486: Public ko batao
+05/02/2023, 16:17 - +91 92059 79486: Otherwise maill willnot work
+05/02/2023, 16:19 - +91 98250 15084: I agree.. comment on his youtube channel..
+05/02/2023, 16:19 - +91 98250 15084: Comment on every latest video of krish naik
+05/02/2023, 16:20 - +91 92059 79486: 153  participants are there. Let's take a survey how may of them are fine with classes
+React thumb on this message if you are not okay with the classes
+05/02/2023, 16:21 - +91 98677 16992: <Media omitted>
+05/02/2023, 16:21 - +91 98677 16992: Very pathetic writing
+05/02/2023, 16:22 - +91 79755 70668: you are righ untill unless we all oppose this will not work
+05/02/2023, 16:24 - +91 92059 79486: Yup but first take what majority of the people wants. Only 6 reaction so far
+05/02/2023, 16:25 - +91 90042 57538: Noo
+05/02/2023, 16:26 - Tarun Rao: got it bro
+05/02/2023, 16:28 - +91 99875 64492: Nothing is gonna work, unless and until a LinkedIn post with unsatisfied reviews are posted....then only they'll take us seriously 😅😅
+05/02/2023, 16:30 - +91 81785 68253: That can be done as a last resort but till then we have to give another chance to them to rectify things asap. If they don't, then social media isn't going anywhere
+05/02/2023, 16:30 - Tarun Rao: can anyone explain me the use of feature store folder in the project
+05/02/2023, 16:30 - Tarun Rao: whats its use
+05/02/2023, 16:30 - +91 99875 64492: Group members have mailed twice or thrice, no results 😓😓
+05/02/2023, 16:33 - +91 92059 79486: tabtak tumhara course khatm ho jayega
+05/02/2023, 16:33 - +91 81785 68253: Let me re-iterate this:
+
+1. There's always a right way of doing things. Dropping emails with professional approach always leave an impact.
+2. If it doesn't, we should confront them over the live session in front of all.
+3. If it still doesn't work, then comes the social media post.
+
+Let's take baby steps for now and give this team a chance
+05/02/2023, 16:34 - +91 81785 68253: Utna wait ni karna, aaj mai bat kar rha hu. Agar solution na mile to social media wala option khula h. Withing next 1 week wo sab ho skta h
+05/02/2023, 16:35 - +91 98250 15084: We should have done this.. 
+When they have brought sunny to teach.. 
+
+We are already late..
+05/02/2023, 16:36 - +91 81785 68253: True, but better late than never
+05/02/2023, 16:36 - +91 81785 68253: We still can do all this in a faster pace, putting pressure on the team
+05/02/2023, 16:37 - +91 92059 79486: Do one thing, you write a proper mail and include all of our mail in CC
+05/02/2023, 16:37 - +91 92059 79486: Atleast 100 mail id is needed
+05/02/2023, 16:37 - +91 92059 79486: Okay
+05/02/2023, 16:39 - +91 81785 68253: Why just one person? Why shouldn't they see the flood of emails rhyming together in their inboxes?
+05/02/2023, 16:41 - +91 92059 79486: Because I and you will send the email along with us 7-8 log aur bhej denge but usse kuch nhi hoga. But if you keep all the members email in CC tab jake kuch hoga
+05/02/2023, 16:42 - +91 92059 79486: See jabtak majority nhi chahega ki tutor change ho tab tak tum jitna email , msg kr lo nhi hone wala kuch
+05/02/2023, 16:43 - +91 92059 79486: Maximum 10 log ko dikkat h.  I don't see much involvement from others
+05/02/2023, 16:43 - +91 98250 15084: I m going to comment on the youtube video only..
+05/02/2023, 16:43 - +91 98250 15084: That will strike directly to krish naik..
+05/02/2023, 16:44 - +91 92059 79486: My point is one person can't do anything and they will not take our issue seriously agar humlog group Mai kuch nhi kiye tkh
+05/02/2023, 16:44 - +91 92059 79486: Toh
+05/02/2023, 16:44 - +91 81785 68253: Okay
+05/02/2023, 16:44 - +91 81785 68253: Share your email IDs
+05/02/2023, 16:44 - +91 92059 79486: subhashdixit17@gmail.com
+05/02/2023, 16:44 - +91 92059 79486: I request everyone to share their email id if they are not okays ith the classes
+05/02/2023, 16:44 - +91 99875 64492: iampritam9211@gmail.com
+05/02/2023, 16:46 - +91 98250 15084: Ek google form bana dete hai.. 
+
+1) Student email id  
+2) msg to ineuron team
+05/02/2023, 16:46 - +91 92059 79486: Ha sounds good. Please share the link of the form here
+05/02/2023, 16:47 - +91 90218 58584: This message was deleted
+05/02/2023, 16:48 - +91 92059 79486: Whoever in the class please show their support by sending msg
+05/02/2023, 16:48 - +91 92059 79486: I have done
+05/02/2023, 16:48 - +91 92059 79486: so that they can see it is ot about individual
+05/02/2023, 16:49 - +91 90042 57538: pbhojane1609@gmail.com
+05/02/2023, 16:55 - +91 92059 79486: Well said @918178568253 I am with you.
+05/02/2023, 16:55 - +91 84119 11153: Well said bro
+05/02/2023, 16:58 - +91 96698 39680: palasiyasawan756@gmail.com
+05/02/2023, 16:59 - +91 84119 11153: abhikaleak8@gmail.com
+05/02/2023, 16:59 - +91 81785 68253: Let's do this. I'm creating a Google form for the same
+05/02/2023, 16:59 - +91 98368 99312: Send an email and please keep all email addresses in cc..
+05/02/2023, 16:59 - +91 98368 99312: ruptosh@gmail.com
+05/02/2023, 17:01 - +91 98610 45001: matindramalik@gmail.com
+05/02/2023, 17:03 - +91 86178 08574: ritwik94348gupta@gmail.com
+05/02/2023, 17:03 - +44 7831 624309: sharathprakash81@gmail.com
+05/02/2023, 17:03 - +91 95952 53520: harshalnir99@gmail.com
+05/02/2023, 17:03 - +91 98250 15084: R we supposed to write email here of fill the google form ?
+05/02/2023, 17:05 - +91 98368 99312: Both should be done an email with all email addresses in cc and Google form 👍
+05/02/2023, 17:07 - +91 81785 68253: https://forms.gle/fMZLY6eNyEnW4kQb6
+
+Please fill the above form.
+05/02/2023, 17:09 - +91 88478 94318: done
+05/02/2023, 17:10 - +91 79755 70668: Done,
+ankurscs@gmail.com
+05/02/2023, 17:11 - +91 92059 79486: Done
+05/02/2023, 17:16 - +91 84119 11153: Done
+05/02/2023, 17:18 - +91 81785 68253: I'm just waiting for a decent amount of feedbacks and then I'll share it with the team, keeping you all in cc
+05/02/2023, 17:21 - +91 99875 64492: Done
+05/02/2023, 17:26 - +91 98610 45001: Done
+05/02/2023, 18:11 - +91 97482 63373: done
+05/02/2023, 18:19 - +44 7831 624309: The standard of teaching is on constant fall with each day moving forward. It feels like a genuine pig batch to test and train the teaching skills of junior teaching staff of iNeuron. I expect lessons from Krish Naik or other senior members to carry out the lessons so that it becomes fruitful and effective to students. Many times such concerns were raised but don't see any concrete resolution to this issue. Kindly request to iron out a permanent solution  to the student batch.
+05/02/2023, 18:19 - +44 7831 624309: Done now!
+05/02/2023, 19:56 - +91 81785 68253: So far I've received 14 responses only. Is there anyone else left?
+05/02/2023, 20:01 - +91 98250 15084: Yes..
+05/02/2023, 20:01 - +91 98250 15084: Wait for 1-2 days.. 
+I will fill form when i reach home..
+05/02/2023, 20:02 - +91 98250 15084: Wait for 1-2 days.. so that u get maximum responce.
+05/02/2023, 20:16 - +44 7831 624309: 14/153 ??? So does that mean only these 14 ppl in   here are dumb heads???
+05/02/2023, 20:16 - +91 92059 79486: 😭😭😭
+05/02/2023, 20:17 - +91 81785 68253: Its hardly gonna take a minute to fill it up. Anyways, please try to fill it as earliest as possible
+05/02/2023, 20:18 - +91 81785 68253: Its surprising to me also
+05/02/2023, 20:18 - +91 90218 58584: Most people don't care
+05/02/2023, 20:18 - +44 7831 624309: Only 14 ppl don't understand the lesson but majority do??
+Then I think we should check with the majority as what approach do they take for success!!
+05/02/2023, 20:19 - +91 81785 68253: Probably, or they are taking a lot of help from internet
+05/02/2023, 20:20 - +91 90218 58584: Yes self study
+05/02/2023, 20:20 - +91 81785 68253: Yeap we need to. But I'm sure I've given my best to understand what Avnish explained and now I'm regretting my decision of re-watching his videos. I should have not done that
+05/02/2023, 20:31 - +91 72062 13862: Done
+05/02/2023, 20:38 - +91 99992 00885: Done
+05/02/2023, 20:40 - +91 99992 00885: Quality of class is dropping gradually...Time series session was taken in air using existing document where as it is the most use model in every industrial vertical...Lost interest in attending the sessions now. i can learn more from basic youtube video than coming to class and wasting my 3 hours. Feeling like have thrown 16k in dustbin. The only attractiveness is Krish sir's session and Sudhanshu sir's initial python sessions. 
+Really disappointed with iNeuron.
+05/02/2023, 21:01 - +91 88478 94318: no , they maybe fearing...that, ineuron might be able to blacklist them, not call or shortlist them for placements 😂
+05/02/2023, 21:01 - +91 88478 94318: so not filling out the forms
+05/02/2023, 21:01 - +91 88478 94318: @918178568253 how many entries till now?
+05/02/2023, 21:09 - +91 90909 52427: rakeshranjan4294@gmail.com
+05/02/2023, 21:25 - +91 98250 15084: Hello Team ineuron, 
+The standard of teaching by your teachers is constantly falling day by day. You are playing with our carriers by sending junior teachers to teach such important topics like Time series, Deep Learning... 
+Krish Naik has all the time to upload videos on youtube. But he doesn't have time  to teach the students who have paid for the cource .. i simply dont understand how can a student(Boktiar Ahmed Bappy) teach us Deep Learning. i have lost interest in attending the sessions now.. you guys are wasting our precious time. 
+I dont want to spoil reputation of ineuron. thats why saying all this in note .. we want krish naik to teach us Deep learning and all the remaining important topics .. 
+
+If krish sir. will not come to take lectures .. then i will start telling the reality of ineuron to other students in social media platforms whether linkedin or youtube.. 
+
+Really  disappointed with ineuron.
+05/02/2023, 21:25 - +91 98250 15084: done
+05/02/2023, 21:32 - +91 81785 68253: 24 entries till now
+05/02/2023, 21:33 - +91 81785 68253: Please don't use threatening language. I understand the emotions, but it should be kept in a calm manner
+05/02/2023, 21:34 - +91 81785 68253: Its understood to them if we are not happy we will leave negative feedback on social media. You may edit your responses if you feel like, I've kept that option enabled
+05/02/2023, 21:34 - +91 98250 15084: Nobody will hear in calm manner.. 
+
+We have tried all this.. 
+Sending mail to sunny and filling the ineuron feedback forms.. 
+
+Nothing happened..
+05/02/2023, 21:35 - +91 95959 59773: We can raise our voice in discord community
+05/02/2023, 21:36 - +91 98250 15084: Target krish naik youtube channel.. only that will make impact.. nothing else..
+05/02/2023, 21:36 - +91 98250 15084: Tarket that market.. from where there are getting students..
+05/02/2023, 21:37 - +91 98250 15084: Negativity spreads faster then positivity
+05/02/2023, 21:38 - +91 98250 15084: And dont be afraid of job gaurantee .. 
+
+Ineuron is not capable to give any jobs.. 
+If they can give jobs.. 
+They sunny savita will not be teaching in ineuron since 2 years
+05/02/2023, 21:40 - +91 90218 58584: I saw sunny bhaveen Chandra and sunny Savita's LinkedIn both them are now working in the same company from San Francisco
+05/02/2023, 21:42 - +91 95959 59773: Thanks to Sunny he left zoom chat open that day
+05/02/2023, 21:43 - +91 95959 59773: At least we can discuss issues with each other here
+05/02/2023, 21:48 - +91 97309 42181: 👍
+05/02/2023, 22:09 - +44 7831 624309: Agree to it....
+05/02/2023, 22:10 - +44 7831 624309: Did sunny savitha left too??
+05/02/2023, 22:13 - +91 99875 64492: Yes bro🙌🏻
+05/02/2023, 22:14 - +91 79855 54980: Let Paul come to teach computer vision , u guys will be more disappointed 😞😞... 
+He also gets irritated very easily in live classes..
+06/02/2023, 00:38 - +91 90042 57538: Anyone have this group invite link
+06/02/2023, 01:02 - +91 90218 58584: https://youtu.be/tpGawyNMRLM
+06/02/2023, 08:45 - +91 72062 13862: https://chat.whatsapp.com/IzwyQD0hKAML19Q68MgTbN
+06/02/2023, 09:38 - +91 99670 30638 joined using this group's invite link
+06/02/2023, 11:55 - +92 319 2476541: Done
+06/02/2023, 12:05 - +91 6280 963 446: https://youtu.be/bZKO8jwOfjg
+06/02/2023, 12:05 - +91 6280 963 446: Live now
+06/02/2023, 13:49 - +91 81785 68253: If anybody else is left with filling up this form, then please do it as earliest as possible
+06/02/2023, 14:20 - +44 7831 624309: Also guys, I know this was discussed before.....the term Lifetime access mean lifetime of the company and not lifetime of the user!!!
+06/02/2023, 14:21 - +44 7831 624309: So we might loose the access depending on iNeuron's future
+06/02/2023, 14:22 - +91 89730 57401: They promised as lifetime access whenever joining this course. So, don't worry, you will get lifetime access!
+06/02/2023, 14:25 - +91 89730 57401: focus more on job guarantee than course access! Nowadays you will get lot of resources on online. But, to get opportunity and upskilling skills is more important!
+06/02/2023, 14:26 - +91 98610 45001: I think this is more relevant information
+06/02/2023, 14:26 - +91 98610 45001: You won't get lifetime access if the company is dissolved after acquisition
+06/02/2023, 14:27 - +91 98610 45001: This is true tho
+06/02/2023, 14:47 - +91 81785 68253: A person aware of corporate laws might be able to confirm this, but looking at the quality of content we won't need lifetime access of it
+06/02/2023, 15:04 - +91 89730 57401: <Media omitted>
+06/02/2023, 15:04 - +91 90218 58584: Its like building's lease agreement
+06/02/2023, 15:04 - +91 90218 58584: Haha
+06/02/2023, 15:04 - +91 70206 63067: Ask him if the ineuron turns to youneuron then?
+06/02/2023, 15:05 - +91 90218 58584: 😭😂
+06/02/2023, 15:29 - +91 90909 52427: Submitted.
+06/02/2023, 17:37 - +44 7831 624309: <Media omitted>
+06/02/2023, 17:58 - +91 98610 45001: Bangladesh se 1000 subscriber wala YouTuber ko hire karke hamare upar experiment kar rahe hai 😭
+06/02/2023, 18:41 - +91 95959 59773: Hamare to L lag gaye hai
+06/02/2023, 18:42 - +91 95959 59773: 😅😂
+06/02/2023, 19:23 - +91 88478 94318: actually, if he could teach well, deliver the content well, fir v chlta, ...
+07/02/2023, 11:30 - +91 81785 68253: 31 individuals have submitted their concern over that form.
+
+Shall I drop an email now or wait lil more?
+07/02/2023, 11:41 - +91 90909 52427: Guys we need more numbers
+07/02/2023, 11:43 - +60 11-2419 2738: Ok
+07/02/2023, 13:05 - +44 7831 624309: I think we should get more ppl atleast 50!!
+07/02/2023, 13:06 - +91 88478 94318: there are 154 participants, not even 50 have filled?
+07/02/2023, 13:06 - +91 88478 94318: 😂😂
+07/02/2023, 13:07 - +44 7831 624309: I know...let's get atleast 50 to be genuine
+07/02/2023, 13:08 - +44 7831 624309: 50 x linkedin network of 100 will sure make an impact!
+08/02/2023, 12:05 - +91 6280 963 446: https://youtu.be/_cguTQTDXuo
+08/02/2023, 14:49 - +91 81785 68253: Everyone, I'll send the feedback to iNeuron team today keeping you all cc'd in it.
+08/02/2023, 16:41 - +91 90218 58584: apurvakhomane@gmail.com
+08/02/2023, 17:14 - +91 90636 71244: Regarding what??
+08/02/2023, 17:16 - +44 7831 624309: How many submitted?
+08/02/2023, 19:38 - +92 319 2476541: Regarding the quality of content being provided
+08/02/2023, 19:46 - +44 7831 624309: How many feedback submitted?
+08/02/2023, 20:27 - +91 81785 68253: 31
+08/02/2023, 20:27 - +60 11-2419 2738: Pls share link again. Yq
+08/02/2023, 20:27 - +60 11-2419 2738: Tq
+08/02/2023, 20:28 - +91 81785 68253: Here
+08/02/2023, 20:44 - +60 11-2419 2738: done
+08/02/2023, 20:44 - +91 98610 45001: Only 31?
+08/02/2023, 20:45 - +91 98610 45001: Looks like very less people are having issues
+08/02/2023, 20:46 - +91 98610 45001: May b they are from IT background or experienced I suppose
+08/02/2023, 21:03 - +91 91619 50052: Or may be mostly lost their hope from ineuron dur to less interactive classes 😭
+08/02/2023, 21:45 - +91 92059 79486: https://www.linkedin.com/feed/update/urn:li:activity:7028316642149380096?utm_source=share&utm_medium=member_android
+08/02/2023, 22:07 - +91 81785 68253: Whatever be the reason, 31 out of 150 isn't that bad number as it's almost 20% of batch size
+08/02/2023, 22:07 - +91 81785 68253: Will share the concern with the iNeuron team by EOD
+08/02/2023, 22:08 - +91 92059 79486: After removing the outliers, it will be a balanced data😀
+08/02/2023, 22:09 - +91 81785 68253: Don't go into that much of depth bro 🤣
+08/02/2023, 22:39 - +91 98610 45001: Batch size is not 150. Only 150 students are added in this group. I think may b the batch size around 800 to 1000
+08/02/2023, 22:39 - +91 70206 63067: Even more than that
+08/02/2023, 22:56 - +91 98250 15084: Is their any reliable source of your data ?
+08/02/2023, 22:56 - +91 98250 15084: That may batch will have 800-1000 students.. ?
+08/02/2023, 23:00 - +91 98610 45001: When they were teaching mongoDB  , the url they provided for connecting with database  it showed around 600 hit on real time
+08/02/2023, 23:01 - +91 98610 45001: Considering that 60,70% students are attending live class you can predict that the batch size is around 800 to 1000 may be
+08/02/2023, 23:31 - +91 97168 98919: <Media omitted>
+09/02/2023, 00:30 - +91 81785 68253: Okay
+09/02/2023, 00:33 - +91 81785 68253: <Media omitted>
+09/02/2023, 00:59 - +91 81785 68253: 600 hits can be given by 100 people too. 600 is way too much
+09/02/2023, 01:00 - +91 81785 68253: An ideal batch size sould be somewhere 100-250 max. Beyond this, managing a batch get a bit challenging specially on zoom
+09/02/2023, 01:19 - +91 90218 58584: Thats 1 Cr per batch
+09/02/2023, 01:20 - +91 81785 68253: How?
+09/02/2023, 01:21 - +91 90218 58584: 700 * 16000
+09/02/2023, 01:21 - +91 81785 68253: Alright
+09/02/2023, 05:35 - +91 99668 45987: 👍
+09/02/2023, 08:51 - +91 85900 02524 joined using this group's invite link
+09/02/2023, 09:25 - Tarun Rao: can we pass a 2d array to ml model while training ?
+09/02/2023, 09:25 - Tarun Rao: or is it just csv
+09/02/2023, 09:29 - +91 92059 79486: I don't think so...you have to flatten the array
+09/02/2023, 09:43 - Tarun Rao: No
+09/02/2023, 09:43 - Tarun Rao: You definitely cannot pass a 1d array
+09/02/2023, 09:46 - +91 92059 79486: ?
+09/02/2023, 09:46 - +91 88478 94318: can you explain?
+09/02/2023, 09:52 - +91 88478 94318: are you saying about the typical ML problem where we have several rows & columns (kinda a matrix --> 2D array) that is used for model training, you're talking about?
+09/02/2023, 09:54 - Tarun Rao: yeah like csv is similar to matrix(2d array)
+09/02/2023, 09:54 - Tarun Rao: I mean look you will pass x, y while fitting the model right ?
+09/02/2023, 09:55 - Tarun Rao: generally you will pass a csv file as x and one feature as y (pd.Series)
+09/02/2023, 09:55 - Tarun Rao: but in the project avnish was passing 2d array as x
+09/02/2023, 09:56 - +91 88478 94318: I didn't see his video, can you please provide a ss /
+09/02/2023, 09:57 - Tarun Rao: I cant screen goes blank
+09/02/2023, 10:01 - +91 88478 94318: take a picture
+09/02/2023, 10:01 - Tarun Rao: ok
+09/02/2023, 10:05 - Tarun Rao: give me some time
+09/02/2023, 10:05 - Tarun Rao: there is so much code that I am not able to find it 😂
+09/02/2023, 11:38 - Tarun Rao: <Media omitted>
+09/02/2023, 12:49 - +91 6280 963 446: This message was deleted
+09/02/2023, 12:50 - +91 6280 963 446: https://youtu.be/_cguTQTDXuo
+09/02/2023, 17:24 - +91 70072 43774: You are given a data-set containing 9 companies' past five years 20+ financial ratios, with the expanded accounting definitions having multivariate relations to business capabilities. Tenth company's data is added to the data-set. How will you prioritize the business capabilities the new company should focus on?
+09/02/2023, 17:24 - +91 70072 43774: Can anyone help me with this question?
+09/02/2023, 17:26 - +91 92059 79486: I think you have to use comp data, try to get some baseline and use that new company. Aggreagate ratios using some mathematics or statistics
+09/02/2023, 17:40 - +91 88478 94318: which one
+09/02/2023, 17:58 - Tarun Rao: <Media omitted>
+09/02/2023, 19:06 - +91 88478 94318: it is passing the xtrain & ytrain value respectively
+09/02/2023, 19:06 - +91 88478 94318: correct it is
+10/02/2023, 09:45 - +91 81785 68253: Is anybody eligible for Tiger Analytics?
+
+I see most of the companies have raised their bars
+10/02/2023, 09:51 - +91 88478 94318: scam2023
+10/02/2023, 09:51 - +91 98610 45001: I see very few companies are having openings for freshers
+10/02/2023, 09:53 - +91 81785 68253: True
+10/02/2023, 09:54 - Tarun Rao: Like what ?
+10/02/2023, 09:54 - +91 81785 68253: Not sure if this is because of recession or what
+10/02/2023, 09:54 - +91 81785 68253: 5+ years experience and iNeuron project completed
+10/02/2023, 09:55 - Tarun Rao: Oh
+10/02/2023, 09:56 - +91 89730 57401: Tiger analytics - Hire and Fire policy. 
+
+They will hire freshers/experienced persons. If they not get project, they will fire immediately!
+10/02/2023, 09:57 - +91 81785 68253: Its a startup?
+10/02/2023, 09:59 - +91 89730 57401: Chennai based startup. have 1000+ employees.
+10/02/2023, 11:36 - +91 6280 963 446: https://www.instagram.com/p/CoeJ2fUMp2W/?igshid=MDJmNzVkMjY=
+10/02/2023, 12:13 - +91 6280 963 446: Hello everyone,
+
+I'm excited to announce that I am now offering Complete Resume based Projects for resume ( Modular Coding Approach ).
+
+Project list:
+
+1. Fraud transaction detection (In real time on client data) 
+2. Sales prediction (modular coding approach project for resume)
+3. Rental shared demand prediction project (real time data – modular coding approach )
+4. Customer personality analysis (modular coding approach ).
+
+Whether you are looking for help with finding a job or just wanting to learn more about a certain topic, I am here to help! To book please use the link in the first comment. I look forward to connecting with you!
+
+Check here: https://t.ly/YwhC
+10/02/2023, 12:52 - +44 7831 624309: <Media omitted>
+10/02/2023, 12:52 - +44 7831 624309: <Media omitted>
+10/02/2023, 12:53 - +44 7831 624309: Ppl have already taken on Linkedin!!
+10/02/2023, 13:00 - +91 81785 68253: My suggestion is we should wait for tomorrow's session. Let's see how they address this issue of ours(if they do).
+
+Otherwise we can also take this to LinkedIn with appropriate hash tags
+10/02/2023, 13:04 - +44 7831 624309: Sorry for sending out wrong signal. I didn't mean that we should do the same. I meant to point out that the gap is felt at every other courses too, so looks like a quality degrade overall for ineuron
+10/02/2023, 13:06 - +91 79755 70668: Yes that is there
+10/02/2023, 13:06 - +91 81785 68253: Agreed
+10/02/2023, 14:44 - +91 84119 11153: <Media omitted>
+10/02/2023, 15:46 - +91 76088 83617: <Media omitted>
+10/02/2023, 16:00 - +91 95959 59773: Anyone here who started DL project?
+10/02/2023, 16:01 - +44 7442 395986: Anyone here who wants to do a Data Analysis project together?
+10/02/2023, 17:02 - +91 85490 02123: <Media omitted>
+10/02/2023, 17:02 - +91 85490 02123: Can anyone help me to solve this one
+11/02/2023, 09:53 - +91 95959 59773: Multiple output regression problem
+11/02/2023, 09:53 - +91 95959 59773: We have to predict seven nutrition values
+11/02/2023, 09:53 - +91 85490 02123: Yes
+11/02/2023, 09:53 - +91 85490 02123: You done EDA on this
+11/02/2023, 09:53 - +91 95959 59773: We can go with LR,DT,RF or DL approach
+11/02/2023, 09:54 - +91 95959 59773: Yes
+11/02/2023, 09:54 - +91 85490 02123: Yes can you share me ipynb file to shivajiychoutagi@gmail.com
+11/02/2023, 09:54 - +91 85490 02123: Mail
+11/02/2023, 09:55 - +91 95959 59773: We have to extract information from tags,no of steps and encode it
+11/02/2023, 09:55 - +91 85490 02123: Yes
+11/02/2023, 09:55 - +91 85490 02123: Bro I'm struggling there only
+11/02/2023, 15:02 - +91 79755 70668: Hi All,
+11/02/2023, 15:03 - +91 81785 68253: Hi
+11/02/2023, 15:03 - +91 81785 68253: Seems like Krish has joined today
+11/02/2023, 15:03 - +91 79755 70668: hope so Krish will help us today.
+11/02/2023, 15:03 - +91 79755 70668: lets see if our email has help or not ?
+11/02/2023, 15:04 - +91 81785 68253: I'm not setting up high expectations tbh but lets see what happens
+11/02/2023, 15:08 - +91 81785 68253: Please leave your comments there
+11/02/2023, 15:39 - +91 99875 64492: <Media omitted>
+11/02/2023, 15:41 - +91 81785 68253: Are we done? Were only a few were supposed to speak?
+I thought around 31 people had problems
+11/02/2023, 15:41 - +91 86178 08574: null
+11/02/2023, 15:41 - +91 86178 08574: can someone discuss this point
+11/02/2023, 15:41 - +91 86178 08574: <Media omitted>
+11/02/2023, 15:42 - +91 81785 68253: Please do it on your behalf
+11/02/2023, 15:42 - +91 86178 08574: I have raised my hand, how do I get him to unmute?
+11/02/2023, 17:40 - +91 6280 963 446: Hello everyone,
+
+**As for your request all projects are avaliable on Discount.**
+
+Project list:
+
+1. Fraud transaction detection (In real time on client data) 
+2. Sales prediction (modular coding approach project for resume)
+3. Rental shared demand prediction project (real time data – modular coding approach )
+4. Customer personality analysis (modular coding approach ).
+
+Whether you are looking for help with finding a job or just wanting to learn more about a certain topic, I am here to help! 
+
+Check here: https://cutt.ly/o3x6PT7
+
+Let me know if you have any query
+11/02/2023, 17:58 - +91 92059 79486: Paul is amazing
+11/02/2023, 17:59 - +91 88478 94318: yes
+11/02/2023, 18:05 - +91 95959 59773: What topic Paul took?
+11/02/2023, 18:06 - +91 98217 15290: Computer vision
+11/02/2023, 19:29 - Tarun Rao: May batch ?
+11/02/2023, 19:29 - +91 98217 15290: Yes
+11/02/2023, 20:18 - +91 81785 68253: Absolutely, i don't think anyone will be having any problem with him
+11/02/2023, 20:19 - +91 90218 58584: Nice guys
+11/02/2023, 20:20 - +91 98368 99312: https://www.linkedin.com/posts/ruptosh_basic-statistics-part-2-activity-7030185962613723136-KKJl?utm_source=share&utm_medium=member_desktop
+11/02/2023, 20:20 - +91 98368 99312: please like and share
+11/02/2023, 20:25 - +91 90042 57538: https://medium.com/@praful1609/introduction-of-statistics-for-data-science-7e99c38db11b
+11/02/2023, 22:19 - +44 7831 624309: Was that because of the email sent out?
+11/02/2023, 22:52 - +91 81785 68253: Not sure
+12/02/2023, 10:46 - Tarun Rao: Did they teach tensorflow ?
+12/02/2023, 16:13 - +91 98368 99312: What is full name of our CV instructor Paul??
+12/02/2023, 16:19 - +91 72062 13862: Sourangshu Paul as seen on his screen
+12/02/2023, 16:49 - +91 90332 44869: Sunny ne kya karaya aapki batch me
+12/02/2023, 17:22 - +91 6280 963 446: https://youtu.be/VdUQTmCjpU0
+12/02/2023, 17:22 - +91 6280 963 446: New project
+13/02/2023, 04:31 - +44 7831 624309: Krish came into 11 Feb session with our email concerns......did anyone from us not were live in the lesson?
+13/02/2023, 04:34 - +44 7831 624309: This message was deleted
+13/02/2023, 09:45 - Tarun Rao: guys do we need the validation.ipnyb folder in the project or is it just for reference ?
+13/02/2023, 09:47 - +91 90909 52427: No
+13/02/2023, 10:08 - Tarun Rao: No ?
+13/02/2023, 10:08 - +91 90909 52427: No need
+13/02/2023, 11:49 - +91 81785 68253: Me, Subhash and Shobhandeb were
+13/02/2023, 12:00 - +91 6280 963 446: https://youtu.be/VdUQTmCjpU0
+13/02/2023, 12:01 - +91 6280 963 446: Live now
+13/02/2023, 17:36 - +91 95959 59773: <Media omitted>
+13/02/2023, 17:36 - +91 95959 59773: <Media omitted>
+13/02/2023, 17:37 - +91 95959 59773: can anyone help to find out what goes wrong?
+13/02/2023, 18:19 - +91 76088 83617: How can we book mock interviews?
+13/02/2023, 18:22 - +91 88478 94318: what issue you're facing
+13/02/2023, 18:22 - +91 88478 94318: I have not downloaded yet
+13/02/2023, 18:22 - +91 88478 94318: will check later
+13/02/2023, 18:25 - +91 95959 59773: Loss to high
+13/02/2023, 18:25 - +91 88478 94318: okay will check
+13/02/2023, 18:26 - +91 95959 59773: 👍🏻👍🏻
+13/02/2023, 18:35 - +91 98610 45001: Drop a mail at query@ineuron.ai
+13/02/2023, 18:51 - +91 95959 59773: Did anyone get reply from chat support?
+13/02/2023, 18:54 - +91 98610 45001: I got, but they are leaving chat after listening to your concerns
+13/02/2023, 18:57 - +91 90218 58584: Use chatGPT to solve code related doubts
+13/02/2023, 18:59 - +91 95959 59773: I tried but didnt get desirable output
+13/02/2023, 18:59 - +91 90218 58584: They are releasing codex which similar to chatGPT but only for coding
+13/02/2023, 19:28 - +91 92059 79486: What is the full name of Paul?
+13/02/2023, 19:36 - Tarun Rao: <Media omitted>
+13/02/2023, 19:39 - +91 72062 13862: Sourangshu Paul
+13/02/2023, 19:51 - Tarun Rao: can anyone check if neuro lab is running ?
+13/02/2023, 19:57 - +91 95959 59773: Yes
+13/02/2023, 19:57 - Tarun Rao: why is my terminal killed
+13/02/2023, 20:07 - Tarun Rao: not able to connect to mongo db checked my log file
+13/02/2023, 20:16 - Tarun Rao: what is the use of model pusher folder in the artifact file
+14/02/2023, 08:22 - Tarun Rao: can anyone explain pls
+14/02/2023, 09:40 - +91 6280 963 446: https://www.instagram.com/p/CooPoSSPfNp/?igshid=YmMyMTA2M2Y=
+14/02/2023, 14:38 - +44 7831 624309: What is today's extra class about, which topic?
+14/02/2023, 15:05 - +91 82962 26281: Project doubts
+14/02/2023, 15:28 - +91 81785 68253: I thought Krish said a session will be taken for explaining the project from scratch? Or will it be a doubt clearing session?
+14/02/2023, 15:29 - +91 84119 11153: It's project recap session
+14/02/2023, 15:31 - +91 81785 68253: Gotcha
+14/02/2023, 15:37 - +44 7831 624309: 👍
+14/02/2023, 17:38 - +44 7831 624309: Will that be to demo a new project as
+17/02/2023, 12:29 - +91 81680 35634: https://www.linkedin.com/posts/narenderkumar1_python-pandas-pdf-activity-7032225073042239488-oyV-?utm_source=share&utm_medium=member_desktop
+17/02/2023, 17:04 - +91 6280 963 446: https://youtu.be/tVGFuUlH7Bw
+18/02/2023, 13:54 - +91 6280 963 446: **Final reminder**
+
+Hello everyone,
+
+*As for your request all projects are available on Offer.*
+
+**Note: Offer available till 8 PM IST**
+
+Resume based Project list:
+
+1. Fraud transaction detection (In real time on client data) 
+2. Sales prediction (modular coding approach project for resume)
+3. Rental shared demand prediction project (real time data – modular coding approach )
+4. Customer personality analysis (modular coding approach ).
+
+Whether you are looking for help with finding a job or just wanting to learn more about a certain topic, I am here to help! 
+
+Check here: https://cutt.ly/o3x6PT7
+
+Let me know if you have any query
+18/02/2023, 13:54 - +91 98368 99312: https://www.linkedin.com/posts/ruptosh_statistics-part-3-activity-7032625611667894274--hch?utm_source=share&utm_medium=member_desktop
+18/02/2023, 13:54 - +91 98368 99312: please like and share
+18/02/2023, 13:57 - +91 92059 79486: What is be the price for 1 project only?
+18/02/2023, 13:58 - +91 92059 79486: ignore be*
+18/02/2023, 13:58 - +91 6280 963 446: <Media omitted>
+18/02/2023, 18:07 - +91 6280 963 446: 2h left guys. hurry up🤩
+18/02/2023, 19:25 - +91 99875 64492: Deep learning ??
+18/02/2023, 19:51 - +91 6280 963 446: Only machine learning
+22/02/2023, 16:28 - Tarun Rao: How is pawan lalwani sir power bi tutorial ?
+22/02/2023, 16:38 - +91 79755 70668: It is very basic 🙁
+22/02/2023, 16:40 - Tarun Rao: so from where should I learn power bi ?
+22/02/2023, 16:47 - +91 79755 70668: U should know about the charts , transformation using DAX, Power Query, little bit m queries..
+22/02/2023, 16:48 - Tarun Rao: I don't know anything about power bi
+22/02/2023, 16:48 - +91 79755 70668: Microsoft documentation
+22/02/2023, 16:48 - Tarun Rao: so are all the topics not covered ?
+22/02/2023, 16:49 - +91 6398 155 889: This message was deleted
+22/02/2023, 16:50 - +91 79755 70668: Pavan Lalwani is having video will give u the basic knowledge, u should take the data and prepare some basic insight from there.
+22/02/2023, 16:51 - Tarun Rao: ya so for basic understanding pawan lalwani
+22/02/2023, 16:51 - +91 79755 70668: Yes
+22/02/2023, 16:51 - Tarun Rao: and then make some own projects using whatever I have learnt right ?
+22/02/2023, 16:52 - +91 79755 70668: Yes, Use data given by Sunny
+22/02/2023, 16:52 - Tarun Rao: ok
+22/02/2023, 16:55 - +91 98368 99312: https://youtube.com/playlist?list=PLH6mU1kedUy8RaAWZyIaH9DN7E-IvWe_C
+22/02/2023, 16:55 - +91 98368 99312: You can also follow above power bi playlist
+22/02/2023, 16:56 - +91 98368 99312: It's beginners to pro level
+22/02/2023, 17:22 - Tarun Rao: ok thanks
+23/02/2023, 12:53 - +91 81680 35634: https://www.linkedin.com/posts/narenderkumar1_888life-balance-activity-7034418764997701633-aXKF?utm_source=share&utm_medium=member_desktop
+23/02/2023, 18:30 - +91 79997 44064: Any one got mu Sigma zoom meeting registration mail
+23/02/2023, 21:07 - +91 98610 45001: No
+24/02/2023, 18:37 - +91 95563 32113: *Hey everyone, Sai Subhasish here. I'm looking for teammates to work collaborated on an internship project "Investment prediction". Which is based on real-time stock price prediction. Which is a ML project and after completion of internship we can try use the same for DL. I've a complete planning for this project and open to listen your ideas also. I've successfully completed my first internship project "Thyroid disease detection" with understanding of the topics and end-to-end pipeline. Link: https://github.com/saisubhasish/ThyroidDetection_ML_Project  . I'm a working professional and I also have an experience of around 1.5 years in stock trading. So looking for teammates, who have interest in the equity market, we can join together to collaborate our ideas to make a better product. If you're interested kindly DM me. Thanks*
+25/02/2023, 13:55 - +91 70206 63067: Hello guys,
+Does anyone know how to connect Power BI with SQL server
+I'm facing some errors
+25/02/2023, 15:08 - +91 98368 99312: This message was deleted
+25/02/2023, 15:08 - +91 98368 99312: This message was deleted
+25/02/2023, 15:22 - +91 70072 43774: Do we have a class today ?
+25/02/2023, 15:28 - +91 72040 73624: I have not been joining class since last October, shall I proceed with this Bach only or go for other batch, please suggest me.
+25/02/2023, 15:49 - +60 11-2419 2738: I think better. yes
+25/02/2023, 15:51 - +91 98610 45001: They won't allow for other batch. For that you have to contact them and take admission into other batch by paying the course fee and you have to surrender this credentials. sudhanshu once told the same in live session. Better you should follow this course and pre-recorded videos
+25/02/2023, 16:11 - +91 72040 73624: Ok Ji,
+Thank you ☺️
+25/02/2023, 16:16 - +91 70206 63067: Anyone!
+25/02/2023, 16:41 - +91 95959 59773: I switched from sept 22 to may 22
+25/02/2023, 16:41 - +91 95959 59773: We don't need to pay extra
+25/02/2023, 16:41 - +91 95959 59773: Just mail them
+25/02/2023, 18:37 - +91 98368 99312: https://www.linkedin.com/posts/ruptosh_sql-basics-activity-7035180393544773632-zpan?utm_source=share&utm_medium=member_desktop
+25/02/2023, 18:38 - +91 98368 99312: please like and share
+26/02/2023, 00:48 - +91 86178 08574: Anyone had idea about the resume discussion and mock interviews, when are they going to happen?
+26/02/2023, 08:42 - +91 95563 32113: They will send mail regarding this on Monday
+26/02/2023, 10:15 - +91 6280 963 446: https://www.instagram.com/p/CpHK_Kbq8Z5/?igshid=YmMyMTA2M2Y=
+26/02/2023, 19:14 - +91 86178 08574: Okay, thanks
+26/02/2023, 22:25 - +91 76088 83617: <Media omitted>
+26/02/2023, 22:25 - +91 76088 83617: Idk why it’s giving me wrong answer
+26/02/2023, 23:48 - +91 81680 35634: https://medium.com/@narenderbeniwal1234/25-pandas-coding-mistakes-you-should-never-make-part-1-b483a9dfc880
+27/02/2023, 11:41 - +91 6280 963 446: https://www.linkedin.com/feed/update/urn:li:share:7035853519089782784/
+27/02/2023, 16:55 - +91 81785 68253: <Media omitted>
+27/02/2023, 16:56 - +91 76088 83617: I didn’t
+27/02/2023, 16:59 - +91 76088 83617: Am I alone or anyone else with me in this boat ?
+27/02/2023, 17:07 - +91 95959 59773: +1
+27/02/2023, 17:17 - +91 85900 02524: Scam bhi ho sakta hai
+27/02/2023, 17:20 - +91 81785 68253: Which FSDS batch are you from?
+27/02/2023, 17:25 - +91 70072 43774: Guys anyone here’s is good with numerical reasoning ?
+27/02/2023, 18:30 - +91 6280 963 446: <Media omitted>
+28/02/2023, 05:15 - +44 7831 624309: My github action workflow doesn't trigger with push origin main
+28/02/2023, 05:15 - +44 7831 624309: <Media omitted>
+28/02/2023, 05:15 - +44 7831 624309: <Media omitted>
+28/02/2023, 05:15 - +44 7831 624309: Any help please
+28/02/2023, 09:05 - +91 88478 94318: check if job picker is ready to take up jobs?
+28/02/2023, 09:05 - +91 88478 94318: need to check if the runner is ready to pick up jobs
+28/02/2023, 09:06 - +91 88478 94318: and chck logs
+28/02/2023, 09:09 - Tarun Rao: guys just a doubt
+28/02/2023, 09:10 - Tarun Rao: Can I mention aws, docker in technical skills section of the resume ?
+28/02/2023, 09:11 - +91 88478 94318: yes
+28/02/2023, 09:11 - Tarun Rao: because I have only used aws to deploy my project but I don't know complete aws as in I am not a cloud engineer
+28/02/2023, 09:11 - +91 88478 94318: that is your project architecture, anyway u need to present, otherwise if u dont, there will be a gap created
+28/02/2023, 09:12 - +91 88478 94318: just go through all the steps in aws & its corresponding learnings
+28/02/2023, 09:12 - Tarun Rao: gap ?
+28/02/2023, 09:13 - +91 88478 94318: yes, in the project architecture rather the pipeline u r explaining
+28/02/2023, 09:50 - +91 6280 963 446: https://www.instagram.com/p/CpMUDCBKn2i/?igshid=YmMyMTA2M2Y=
+28/02/2023, 14:48 - +91 76088 83617: Did anyone received the mail from ineuron about the placement program
+28/02/2023, 15:03 - +91 96698 39680: Yes I got email
+28/02/2023, 17:56 - +91 80584 18138: No
+28/02/2023, 18:07 - +91 99875 64492: Yup
+28/02/2023, 19:35 - +91 76088 83617: You all paid extra or something🤓
+28/02/2023, 20:34 - +91 90218 58584: Recieved
+28/02/2023, 20:43 - +91 70206 63067: Muze nhi aya 🥲
+28/02/2023, 22:04 - +91 76088 83617: 🫂
+28/02/2023, 22:05 - +91 80176 35576: I didn’t receive any email from ineuron
+28/02/2023, 22:19 - +91 98610 45001: <Media omitted>
+28/02/2023, 22:19 - +91 98610 45001: I got something like this.
+28/02/2023, 23:16 - +91 80584 18138: No didn't get like this
+28/02/2023, 23:17 - +91 80584 18138: Are you from sept 22 batch ?
+28/02/2023, 23:21 - +91 98610 45001: May 2022
+01/03/2023, 00:04 - +44 7831 624309: <Media omitted>
+01/03/2023, 00:05 - +44 7831 624309: my continuous Deployment getting failed
+01/03/2023, 00:45 - +91 90042 57538: <Media omitted>
+01/03/2023, 00:46 - +91 90042 57538: can anyone please tell me why its shows nothing to commit, working tree clean
+01/03/2023, 00:46 - +91 90042 57538: I didn't push or commit before
+01/03/2023, 15:11 - +91 70206 63067: <Media omitted>
+01/03/2023, 17:57 - +91 99440 94955: Currently they are only forwarding it to may batch right ?
+01/03/2023, 17:57 - +91 99440 94955: Or sep batch
+01/03/2023, 17:57 - +91 99440 94955: Can also apply
+01/03/2023, 18:01 - +44 7831 624309: Anyone got Avnish's email I'd?
+01/03/2023, 19:11 - +91 70206 63067: Nope
+01/03/2023, 19:12 - +91 6280 963 446: he left ineuron
+02/03/2023, 09:59 - +91 6280 963 446: https://www.instagram.com/p/CpRen6nK8fy/?igshid=YmMyMTA2M2Y=
+02/03/2023, 13:02 - +91 6280 963 446: <Media omitted>
+02/03/2023, 13:02 - +91 6280 963 446: *Final Reminder*
+02/03/2023, 13:21 - +91 98368 99312: https://www.linkedin.com/posts/ruptosh_pygwalker-tutorial-activity-7036966034813181952-p9uD?utm_source=share&utm_medium=member_desktop
+02/03/2023, 13:21 - +91 98368 99312: please like and share
+02/03/2023, 17:17 - +91 86178 08574: Is everyone able to fill that Google form?
+02/03/2023, 17:17 - +91 86178 08574: I'm getting some error everytime I try to submit it
+02/03/2023, 17:19 - +91 81307 87637: What error do you get?
+02/03/2023, 17:21 - +91 86178 08574: <Media omitted>
+02/03/2023, 17:24 - +91 98610 45001: Try clearing history, cache and cookies
+02/03/2023, 17:26 - +91 86178 08574: my Google drive was full, cleared some space ,now it's submitted
+02/03/2023, 17:27 - +91 86178 08574: thanks for the help!
+02/03/2023, 18:41 - +91 72062 13862: Any last date to submit the form??
+02/03/2023, 18:43 - +91 81785 68253: Ooha said it's the end of this week. So last date could be Tomorrow
+03/03/2023, 15:51 - Tarun Rao: I have a doubt with dataset can anyone explain me
+03/03/2023, 15:53 - Tarun Rao: <Media omitted>
+04/03/2023, 15:32 - +91 92059 79486: https://youtu.be/S_F_c9e2bz4
+04/03/2023, 15:33 - +91 92059 79486: Here we go again, Krish sir is going to teach the end to end project again.
+04/03/2023, 15:34 - +91 81785 68253: Is this a good news for us?
+04/03/2023, 15:36 - +91 92059 79486: For me yes, I will again watch and try to understand. Mereko Krish sir ka hei bhasa samajh aata h don't know why😂
+04/03/2023, 15:53 - +91 98610 45001: Are we getting access for the same?
+04/03/2023, 15:54 - +91 92059 79486: access? It will be available on Youtube
+04/03/2023, 15:57 - +91 98610 45001: Got it
+04/03/2023, 16:09 - +91 98610 45001: Looks like he took it as a challenge as avnish left
+04/03/2023, 16:10 - +91 92059 79486: Idk
+04/03/2023, 16:17 - +91 6280 963 446: This message was deleted
+04/03/2023, 16:19 - +91 88478 94318: how do u know?
+04/03/2023, 16:20 - +91 6280 963 446: 😄
+04/03/2023, 16:21 - +91 88478 94318: y did u delete that?
+04/03/2023, 16:21 - +91 88478 94318: if u want to share, share it to all
+04/03/2023, 16:21 - +91 88478 94318: 😀
+04/03/2023, 16:22 - +91 6280 963 446: within a week, you will get compelete project on krish sir channel.
+04/03/2023, 16:23 - +91 88478 94318: u shared , then u deleted?,, why?
+04/03/2023, 16:23 - +91 88478 94318: that everyone knows, most of the resources are shared by krish for free
+04/03/2023, 16:24 - +91 95952 53520: @916280963446  please share link sir🙏
+04/03/2023, 16:25 - +91 6280 963 446: Thank you, I did not know
+04/03/2023, 16:25 - +91 6280 963 446: .🙏🏻
+04/03/2023, 16:25 - +91 88478 94318: then know bro😃
+04/03/2023, 16:25 - +91 6280 963 446: sure
+04/03/2023, 16:27 - +91 97309 42181: Hey share link again, when I am click on that u just delete d
+04/03/2023, 16:43 - +91 98610 45001: What did sanju deleted 😂
+04/03/2023, 16:44 - +91 98610 45001: Link?
+04/03/2023, 16:44 - +91 98610 45001: Please share the link
+04/03/2023, 16:44 - +91 98610 45001: @916280963446
+04/03/2023, 16:45 - +91 98610 45001: I am struggling for the project part. It will be of great help
+04/03/2023, 17:27 - +91 85490 02123: <Media omitted>
+04/03/2023, 18:26 - +91 88478 94318: yes
+04/03/2023, 19:25 - +91 98368 99312: https://www.linkedin.com/posts/ruptosh_basic-statistics-part-4-activity-7037782243112620032-alz6?utm_source=share&utm_medium=member_desktop
+04/03/2023, 19:25 - +91 98368 99312: please like and share
+05/03/2023, 09:47 - +91 81680 35634: https://medium.com/@narenderbeniwal1234/the-top-14-data-scientist-skills-5439736deb8
+05/03/2023, 11:58 - +91 92059 79486: https://www.youtube.com/watch?v=Rv6UFGNmNZg&t=35
+Here is the 1st video. Krish is Krish👏🏻
+05/03/2023, 12:11 - +60 11-2419 2738: 👍
+05/03/2023, 14:17 - +92 319 2476541: Huge respect for him from Pakistan ❤️
+06/03/2023, 08:35 - +91 81680 35634: https://medium.com/@narenderbeniwal1234/exploring-the-potential-uses-of-machine-learning-in-healthcare-27547adeeeb6
+06/03/2023, 11:29 - +91 6280 963 446: https://youtu.be/WzxEHzb2NzM
+06/03/2023, 17:56 - Tarun Rao: Guys after performing hyperparameter tuning my accuracy is reducing why is it reducing ?
+06/03/2023, 17:59 - +91 99440 94955: Maybe earlier it was over fitting and now parameters are optimised to give equal weightage to all samples.
+06/03/2023, 19:01 - Tarun Rao: I have used pca to reduce the number of columns and getting  79 % accuracy but if I use the full data set I get accuracy of 99.9% should I use PCA  ?
+06/03/2023, 19:02 - +91 81785 68253: What's the training and testing accuracy?
+06/03/2023, 19:02 - Tarun Rao: Similar
+06/03/2023, 19:02 - Tarun Rao: Around testing accuracy
+06/03/2023, 19:03 - +91 81785 68253: That means the model is close to perfect fit, in that case i wont recommend using PCA unless the number of dimensions are way too much
+06/03/2023, 19:03 - Tarun Rao: 92 columns
+06/03/2023, 19:03 - Tarun Rao: I have reduced it to 50
+06/03/2023, 19:04 - +91 81785 68253: And number of rows?
+06/03/2023, 19:04 - Tarun Rao: 30k approx
+06/03/2023, 19:25 - Tarun Rao: Sorry 46 k records
+06/03/2023, 19:47 - +91 81785 68253: I think it's fine without PCA
+07/03/2023, 08:31 - +91 81680 35634: https://medium.com/@narenderbeniwal1234/the-8-most-common-numpy-mistakes-that-you-should-avoid-in-2023-a0a337b53f8b
+07/03/2023, 10:30 - +91 6280 963 446: https://www.linkedin.com/feed/update/urn:li:activity:7038732926410256387/
+07/03/2023, 16:39 - Tarun Rao: should I meantion spam/ham email classifier in my resume or will it be too basic
+08/03/2023, 10:33 - +91 87770 61413 joined using this group's invite link
+08/03/2023, 10:46 - +91 96149 29765 joined using this group's invite link
